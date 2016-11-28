@@ -1,0 +1,2648 @@
+fileFormatVersion: 2
+guid: fb9b42707472c264bbd7327c1b524a52
+timeCreated: 1474646931
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ascenseur
+    100002: boitier
+    100004: cable
+    100006: cable 1
+    100008: cable 2
+    100010: cable1
+    100012: cable2
+    100014: cable3
+    100016: cable3 1
+    100018: cable_tendu
+    100020: cable_tendu1
+    100022: cable_tendu1 1
+    100024: cable_tendu2
+    100026: cables
+    100028: cables 1
+    100030: cables 2
+    100032: cables_tendus
+    100034: cables_tendus 1
+    100036: cache_moteur
+    100038: cache_rouage
+    100040: cache_rouage1
+    100042: cadre
+    100044: cage
+    100046: cage 1
+    100048: dessus
+    100050: fosse
+    100052: glissieres
+    100054: grillage_dense10
+    100056: grillage_dense11
+    100058: grillage_dense12
+    100060: grillage_dense13
+    100062: grillage_dense14
+    100064: grillage_dense15
+    100066: grillage_dense16
+    100068: grillage_dense17
+    100070: grillage_dense6
+    100072: pCube144
+    100074: pCube160
+    100076: pCube163
+    100078: pCube179
+    100080: pCube180
+    100082: pCube181
+    100084: pCube186
+    100086: pCube188
+    100088: pCube192
+    100090: pCube197
+    100092: pCube199
+    100094: pCube200
+    100096: pCube201
+    100098: pCube202
+    100100: pCube206
+    100102: pCube208
+    100104: pCube218
+    100106: pCube218 1
+    100108: pCube218 2
+    100110: pCube218 3
+    100112: pCube220
+    100114: pCube224
+    100116: pCube228
+    100118: pCube229
+    100120: pCube230
+    100122: pCube231
+    100124: pCube232
+    100126: pCube233
+    100128: pCube234
+    100130: pCube235
+    100132: pCube236
+    100134: pCube237
+    100136: pCube246
+    100138: pCube247
+    100140: pCube248
+    100142: pCube249
+    100144: pCube250
+    100146: pCube251
+    100148: pCube252
+    100150: pCube253
+    100152: pCube254
+    100154: pCube255
+    100156: pCube256
+    100158: pCube257
+    100160: pCube258
+    100162: pCube259
+    100164: pCube260
+    100166: pCube261
+    100168: pCube262
+    100170: pCube263
+    100172: pCube264
+    100174: pCube265
+    100176: pCube266
+    100178: pCube267
+    100180: pCube268
+    100182: pCube269
+    100184: pCube271
+    100186: pCube271 1
+    100188: pCube271 2
+    100190: pCube271 3
+    100192: pCube272
+    100194: pCube272 1
+    100196: pCube272 2
+    100198: pCube272 3
+    100200: pCube273
+    100202: pCube273 1
+    100204: pCube273 2
+    100206: pCube273 3
+    100208: pCube274
+    100210: pCube274 1
+    100212: pCube274 2
+    100214: pCube274 3
+    100216: pCube275
+    100218: pCube275 1
+    100220: pCube275 2
+    100222: pCube275 3
+    100224: pCube276
+    100226: pCube276 1
+    100228: pCube276 2
+    100230: pCube276 3
+    100232: pCube277
+    100234: pCube277 1
+    100236: pCube277 2
+    100238: pCube277 3
+    100240: pCube278
+    100242: pCube278 1
+    100244: pCube278 2
+    100246: pCube278 3
+    100248: pCube279
+    100250: pCube279 1
+    100252: pCube279 2
+    100254: pCube279 3
+    100256: pCube280
+    100258: pCube280 1
+    100260: pCube280 2
+    100262: pCube280 3
+    100264: pCube281
+    100266: pCube281 1
+    100268: pCube281 2
+    100270: pCube281 3
+    100272: pCylinder11
+    100274: pCylinder12
+    100276: pCylinder13
+    100278: pCylinder17
+    100280: pCylinder20
+    100282: pCylinder21
+    100284: pCylinder22
+    100286: pente_marche
+    100288: pSphere1
+    100290: pSphere2
+    100292: pSphere3
+    100294: pSphere4
+    100296: rayons
+    100298: rayons 1
+    100300: rayons2
+    100302: rayons2 1
+    100304: rouage
+    100306: rouage 1
+    100308: rouage_ensemble
+    100310: rouage_ensemble1
+    100312: roue
+    100314: roue 1
+    100316: structure_fixe
+    100318: structure_rouages
+    100320: //RootNode
+    100322: porte_ascenceur_247
+    100324: porte_ascenceur_247 1
+    100326: porte_ascenceur_247 2
+    100328: porte_ascenceur_247 3
+    100330: porte_ascenceur_249
+    100332: porte_ascenceur_249 1
+    100334: porte_ascenceur_249 2
+    100336: porte_ascenceur_249 3
+    100338: porte_ascenceur_251
+    100340: porte_ascenceur_251 1
+    100342: porte_ascenceur_251 2
+    100344: porte_ascenceur_251 3
+    100346: porte_ascenceur_252
+    100348: porte_ascenceur_252 1
+    100350: porte_ascenceur_252 2
+    100352: porte_ascenceur_252 3
+    100354: porte_ascenceur_253
+    100356: porte_ascenceur_253 1
+    100358: porte_ascenceur_253 2
+    100360: porte_ascenceur_253 3
+    100362: porte_ascenceur_255
+    100364: porte_ascenceur_255 1
+    100366: porte_ascenceur_255 2
+    100368: porte_ascenceur_255 3
+    100370: porte_ascenceur_256
+    100372: porte_ascenceur_256 1
+    100374: porte_ascenceur_256 2
+    100376: porte_ascenceur_256 3
+    100378: porte_ascenceur_258
+    100380: porte_ascenceur_258 1
+    100382: porte_ascenceur_258 2
+    100384: porte_ascenceur_258 3
+    100386: porte_ascenceur_265
+    100388: porte_ascenceur_265 1
+    100390: porte_ascenceur_265 2
+    100392: porte_ascenceur_265 3
+    100394: porte_ascenceur_266
+    100396: porte_ascenceur_266 1
+    100398: porte_ascenceur_266 2
+    100400: porte_ascenceur_266 3
+    100402: porte_ascenceur_267
+    100404: porte_ascenceur_267 1
+    100406: porte_ascenceur_267 2
+    100408: porte_ascenceur_267 3
+    100410: porte_ascenceur_268
+    100412: porte_ascenceur_268 1
+    100414: porte_ascenceur_268 2
+    100416: porte_ascenceur_268 3
+    100418: porte_ascenceur_269
+    100420: porte_ascenceur_269 1
+    100422: porte_ascenceur_269 2
+    100424: porte_ascenceur_269 3
+    100426: porte_ascenceur_270
+    100428: porte_ascenceur_270 1
+    100430: porte_ascenceur_270 2
+    100432: porte_ascenceur_270 3
+    100434: porte_ascenceur_271
+    100436: porte_ascenceur_271 1
+    100438: porte_ascenceur_271 2
+    100440: porte_ascenceur_271 3
+    100442: porte_ascenceur_272
+    100444: porte_ascenceur_272 1
+    100446: porte_ascenceur_272 2
+    100448: porte_ascenceur_272 3
+    100450: porte_ascenceur_273
+    100452: porte_ascenceur_273 1
+    100454: porte_ascenceur_273 2
+    100456: porte_ascenceur_273 3
+    100458: porte_ascenceur_274
+    100460: porte_ascenceur_274 1
+    100462: porte_ascenceur_274 2
+    100464: porte_ascenceur_274 3
+    100466: porte_ascenceur_275
+    100468: porte_ascenceur_275 1
+    100470: porte_ascenceur_275 2
+    100472: porte_ascenceur_275 3
+    100474: porte_ascenceur_276
+    100476: porte_ascenceur_276 1
+    100478: porte_ascenceur_276 2
+    100480: porte_ascenceur_276 3
+    100482: porte_ascenceur_277
+    100484: porte_ascenceur_277 1
+    100486: porte_ascenceur_277 2
+    100488: porte_ascenceur_277 3
+    100490: porte_ascenceur_278
+    100492: porte_ascenceur_278 1
+    100494: porte_ascenceur_278 2
+    100496: porte_ascenceur_278 3
+    100498: porte_ascenceur_279
+    100500: porte_ascenceur_279 1
+    100502: porte_ascenceur_279 2
+    100504: porte_ascenceur_279 3
+    100506: porte_ascenceur_280
+    100508: porte_ascenceur_280 1
+    100510: porte_ascenceur_280 2
+    100512: porte_ascenceur_280 3
+    100514: porte_ascenceur_281
+    100516: porte_ascenceur_281 1
+    100518: porte_ascenceur_281 2
+    100520: porte_ascenceur_281 3
+    100522: porte_ascenceur_282
+    100524: porte_ascenceur_282 1
+    100526: porte_ascenceur_282 2
+    100528: porte_ascenceur_282 3
+    100530: porte_ascenceur_283
+    100532: porte_ascenceur_283 1
+    100534: porte_ascenceur_283 2
+    100536: porte_ascenceur_283 3
+    100538: porte_ascenceur_284
+    100540: porte_ascenceur_284 1
+    100542: porte_ascenceur_284 2
+    100544: porte_ascenceur_284 3
+    100546: porte_ascenceur_285
+    100548: porte_ascenceur_285 1
+    100550: porte_ascenceur_285 2
+    100552: porte_ascenceur_285 3
+    100554: porte_ascenceur_286
+    100556: porte_ascenceur_286 1
+    100558: porte_ascenceur_286 2
+    100560: porte_ascenceur_286 3
+    100562: porte_ascenceur_287
+    100564: porte_ascenceur_287 1
+    100566: porte_ascenceur_287 2
+    100568: porte_ascenceur_287 3
+    100570: porte_ascenceur_288
+    100572: porte_ascenceur_288 1
+    100574: porte_ascenceur_288 2
+    100576: porte_ascenceur_288 3
+    100578: porte_ascenceur_289
+    100580: porte_ascenceur_289 1
+    100582: porte_ascenceur_289 2
+    100584: porte_ascenceur_289 3
+    100586: porte_ascenceur_290
+    100588: porte_ascenceur_290 1
+    100590: porte_ascenceur_290 2
+    100592: porte_ascenceur_290 3
+    100594: porte_ascenceur_291
+    100596: porte_ascenceur_291 1
+    100598: porte_ascenceur_291 2
+    100600: porte_ascenceur_291 3
+    100602: porte_ascenceur_292
+    100604: porte_ascenceur_292 1
+    100606: porte_ascenceur_292 2
+    100608: porte_ascenceur_292 3
+    100610: porte_ascenceur_293
+    100612: porte_ascenceur_293 1
+    100614: porte_ascenceur_293 2
+    100616: porte_ascenceur_293 3
+    100618: porte_ascenceur_294
+    100620: porte_ascenceur_294 1
+    100622: porte_ascenceur_294 2
+    100624: porte_ascenceur_294 3
+    100626: porte_ascenceur_295
+    100628: porte_ascenceur_295 1
+    100630: porte_ascenceur_295 2
+    100632: porte_ascenceur_295 3
+    100634: porte_ascenceur_296
+    100636: porte_ascenceur_296 1
+    100638: porte_ascenceur_296 2
+    100640: porte_ascenceur_296 3
+    100642: porte_ascenceur_297
+    100644: porte_ascenceur_297 1
+    100646: porte_ascenceur_297 2
+    100648: porte_ascenceur_297 3
+    100650: porte_ascenceur_298
+    100652: porte_ascenceur_298 1
+    100654: porte_ascenceur_298 2
+    100656: porte_ascenceur_298 3
+    100658: porte_ascenceur_299
+    100660: porte_ascenceur_299 1
+    100662: porte_ascenceur_299 2
+    100664: porte_ascenceur_299 3
+    100666: porte_ascenceur_300
+    100668: porte_ascenceur_300 1
+    100670: porte_ascenceur_300 2
+    100672: porte_ascenceur_300 3
+    100674: porte_ascenceur_301
+    100676: porte_ascenceur_301 1
+    100678: porte_ascenceur_301 2
+    100680: porte_ascenceur_301 3
+    100682: porte_ascenceur_302
+    100684: porte_ascenceur_302 1
+    100686: porte_ascenceur_302 2
+    100688: porte_ascenceur_302 3
+    100690: porte_ascenceur_303
+    100692: porte_ascenceur_303 1
+    100694: porte_ascenceur_303 2
+    100696: porte_ascenceur_303 3
+    100698: porte_ascenceur_304
+    100700: porte_ascenceur_304 1
+    100702: porte_ascenceur_304 2
+    100704: porte_ascenceur_304 3
+    100706: porte_ascenceur_305
+    100708: porte_ascenceur_305 1
+    100710: porte_ascenceur_305 2
+    100712: porte_ascenceur_305 3
+    100714: porte_ascenceur_306
+    100716: porte_ascenceur_306 1
+    100718: porte_ascenceur_306 2
+    100720: porte_ascenceur_306 3
+    100722: porte_ascenceur_307
+    100724: porte_ascenceur_307 1
+    100726: porte_ascenceur_307 2
+    100728: porte_ascenceur_307 3
+    100730: porte_ascenceur_308
+    100732: porte_ascenceur_308 1
+    100734: porte_ascenceur_308 2
+    100736: porte_ascenceur_308 3
+    100738: porte_ascenceur_309
+    100740: porte_ascenceur_309 1
+    100742: porte_ascenceur_309 2
+    100744: porte_ascenceur_309 3
+    100746: porte_D
+    100748: porte_D 1
+    100750: porte_D 2
+    100752: porte_G
+    100754: porte_G 1
+    100756: porte_G 2
+    100758: portes
+    100760: porte_ascenceur_273 4
+    100762: porte_ascenceur_273 5
+    100764: porte_ascenceur_274 4
+    100766: porte_ascenceur_274 5
+    100768: porte_ascenceur_291 4
+    100770: porte_ascenceur_291 5
+    100772: porte_ascenceur_292 4
+    100774: porte_ascenceur_292 5
+    100776: porte_ascenceur_306 4
+    100778: porte_ascenceur_306 5
+    100780: porte_ascenceur_307 4
+    100782: porte_ascenceur_307 5
+    100784: porte_ascenceur_310
+    100786: porte_ascenceur_310 1
+    100788: portes_verticals
+    400000: ascenseur
+    400002: boitier
+    400004: cable
+    400006: cable 1
+    400008: cable 2
+    400010: cable1
+    400012: cable2
+    400014: cable3
+    400016: cable3 1
+    400018: cable_tendu
+    400020: cable_tendu1
+    400022: cable_tendu1 1
+    400024: cable_tendu2
+    400026: cables
+    400028: cables 1
+    400030: cables 2
+    400032: cables_tendus
+    400034: cables_tendus 1
+    400036: cache_moteur
+    400038: cache_rouage
+    400040: cache_rouage1
+    400042: cadre
+    400044: cage
+    400046: cage 1
+    400048: dessus
+    400050: fosse
+    400052: glissieres
+    400054: grillage_dense10
+    400056: grillage_dense11
+    400058: grillage_dense12
+    400060: grillage_dense13
+    400062: grillage_dense14
+    400064: grillage_dense15
+    400066: grillage_dense16
+    400068: grillage_dense17
+    400070: grillage_dense6
+    400072: pCube144
+    400074: pCube160
+    400076: pCube163
+    400078: pCube179
+    400080: pCube180
+    400082: pCube181
+    400084: pCube186
+    400086: pCube188
+    400088: pCube192
+    400090: pCube197
+    400092: pCube199
+    400094: pCube200
+    400096: pCube201
+    400098: pCube202
+    400100: pCube206
+    400102: pCube208
+    400104: pCube218
+    400106: pCube218 1
+    400108: pCube218 2
+    400110: pCube218 3
+    400112: pCube220
+    400114: pCube224
+    400116: pCube228
+    400118: pCube229
+    400120: pCube230
+    400122: pCube231
+    400124: pCube232
+    400126: pCube233
+    400128: pCube234
+    400130: pCube235
+    400132: pCube236
+    400134: pCube237
+    400136: pCube246
+    400138: pCube247
+    400140: pCube248
+    400142: pCube249
+    400144: pCube250
+    400146: pCube251
+    400148: pCube252
+    400150: pCube253
+    400152: pCube254
+    400154: pCube255
+    400156: pCube256
+    400158: pCube257
+    400160: pCube258
+    400162: pCube259
+    400164: pCube260
+    400166: pCube261
+    400168: pCube262
+    400170: pCube263
+    400172: pCube264
+    400174: pCube265
+    400176: pCube266
+    400178: pCube267
+    400180: pCube268
+    400182: pCube269
+    400184: pCube271
+    400186: pCube271 1
+    400188: pCube271 2
+    400190: pCube271 3
+    400192: pCube272
+    400194: pCube272 1
+    400196: pCube272 2
+    400198: pCube272 3
+    400200: pCube273
+    400202: pCube273 1
+    400204: pCube273 2
+    400206: pCube273 3
+    400208: pCube274
+    400210: pCube274 1
+    400212: pCube274 2
+    400214: pCube274 3
+    400216: pCube275
+    400218: pCube275 1
+    400220: pCube275 2
+    400222: pCube275 3
+    400224: pCube276
+    400226: pCube276 1
+    400228: pCube276 2
+    400230: pCube276 3
+    400232: pCube277
+    400234: pCube277 1
+    400236: pCube277 2
+    400238: pCube277 3
+    400240: pCube278
+    400242: pCube278 1
+    400244: pCube278 2
+    400246: pCube278 3
+    400248: pCube279
+    400250: pCube279 1
+    400252: pCube279 2
+    400254: pCube279 3
+    400256: pCube280
+    400258: pCube280 1
+    400260: pCube280 2
+    400262: pCube280 3
+    400264: pCube281
+    400266: pCube281 1
+    400268: pCube281 2
+    400270: pCube281 3
+    400272: pCylinder11
+    400274: pCylinder12
+    400276: pCylinder13
+    400278: pCylinder17
+    400280: pCylinder20
+    400282: pCylinder21
+    400284: pCylinder22
+    400286: pente_marche
+    400288: pSphere1
+    400290: pSphere2
+    400292: pSphere3
+    400294: pSphere4
+    400296: rayons
+    400298: rayons 1
+    400300: rayons2
+    400302: rayons2 1
+    400304: rouage
+    400306: rouage 1
+    400308: rouage_ensemble
+    400310: rouage_ensemble1
+    400312: roue
+    400314: roue 1
+    400316: structure_fixe
+    400318: structure_rouages
+    400320: //RootNode
+    400322: porte_ascenceur_247
+    400324: porte_ascenceur_247 1
+    400326: porte_ascenceur_247 2
+    400328: porte_ascenceur_247 3
+    400330: porte_ascenceur_249
+    400332: porte_ascenceur_249 1
+    400334: porte_ascenceur_249 2
+    400336: porte_ascenceur_249 3
+    400338: porte_ascenceur_251
+    400340: porte_ascenceur_251 1
+    400342: porte_ascenceur_251 2
+    400344: porte_ascenceur_251 3
+    400346: porte_ascenceur_252
+    400348: porte_ascenceur_252 1
+    400350: porte_ascenceur_252 2
+    400352: porte_ascenceur_252 3
+    400354: porte_ascenceur_253
+    400356: porte_ascenceur_253 1
+    400358: porte_ascenceur_253 2
+    400360: porte_ascenceur_253 3
+    400362: porte_ascenceur_255
+    400364: porte_ascenceur_255 1
+    400366: porte_ascenceur_255 2
+    400368: porte_ascenceur_255 3
+    400370: porte_ascenceur_256
+    400372: porte_ascenceur_256 1
+    400374: porte_ascenceur_256 2
+    400376: porte_ascenceur_256 3
+    400378: porte_ascenceur_258
+    400380: porte_ascenceur_258 1
+    400382: porte_ascenceur_258 2
+    400384: porte_ascenceur_258 3
+    400386: porte_ascenceur_265
+    400388: porte_ascenceur_265 1
+    400390: porte_ascenceur_265 2
+    400392: porte_ascenceur_265 3
+    400394: porte_ascenceur_266
+    400396: porte_ascenceur_266 1
+    400398: porte_ascenceur_266 2
+    400400: porte_ascenceur_266 3
+    400402: porte_ascenceur_267
+    400404: porte_ascenceur_267 1
+    400406: porte_ascenceur_267 2
+    400408: porte_ascenceur_267 3
+    400410: porte_ascenceur_268
+    400412: porte_ascenceur_268 1
+    400414: porte_ascenceur_268 2
+    400416: porte_ascenceur_268 3
+    400418: porte_ascenceur_269
+    400420: porte_ascenceur_269 1
+    400422: porte_ascenceur_269 2
+    400424: porte_ascenceur_269 3
+    400426: porte_ascenceur_270
+    400428: porte_ascenceur_270 1
+    400430: porte_ascenceur_270 2
+    400432: porte_ascenceur_270 3
+    400434: porte_ascenceur_271
+    400436: porte_ascenceur_271 1
+    400438: porte_ascenceur_271 2
+    400440: porte_ascenceur_271 3
+    400442: porte_ascenceur_272
+    400444: porte_ascenceur_272 1
+    400446: porte_ascenceur_272 2
+    400448: porte_ascenceur_272 3
+    400450: porte_ascenceur_273
+    400452: porte_ascenceur_273 1
+    400454: porte_ascenceur_273 2
+    400456: porte_ascenceur_273 3
+    400458: porte_ascenceur_274
+    400460: porte_ascenceur_274 1
+    400462: porte_ascenceur_274 2
+    400464: porte_ascenceur_274 3
+    400466: porte_ascenceur_275
+    400468: porte_ascenceur_275 1
+    400470: porte_ascenceur_275 2
+    400472: porte_ascenceur_275 3
+    400474: porte_ascenceur_276
+    400476: porte_ascenceur_276 1
+    400478: porte_ascenceur_276 2
+    400480: porte_ascenceur_276 3
+    400482: porte_ascenceur_277
+    400484: porte_ascenceur_277 1
+    400486: porte_ascenceur_277 2
+    400488: porte_ascenceur_277 3
+    400490: porte_ascenceur_278
+    400492: porte_ascenceur_278 1
+    400494: porte_ascenceur_278 2
+    400496: porte_ascenceur_278 3
+    400498: porte_ascenceur_279
+    400500: porte_ascenceur_279 1
+    400502: porte_ascenceur_279 2
+    400504: porte_ascenceur_279 3
+    400506: porte_ascenceur_280
+    400508: porte_ascenceur_280 1
+    400510: porte_ascenceur_280 2
+    400512: porte_ascenceur_280 3
+    400514: porte_ascenceur_281
+    400516: porte_ascenceur_281 1
+    400518: porte_ascenceur_281 2
+    400520: porte_ascenceur_281 3
+    400522: porte_ascenceur_282
+    400524: porte_ascenceur_282 1
+    400526: porte_ascenceur_282 2
+    400528: porte_ascenceur_282 3
+    400530: porte_ascenceur_283
+    400532: porte_ascenceur_283 1
+    400534: porte_ascenceur_283 2
+    400536: porte_ascenceur_283 3
+    400538: porte_ascenceur_284
+    400540: porte_ascenceur_284 1
+    400542: porte_ascenceur_284 2
+    400544: porte_ascenceur_284 3
+    400546: porte_ascenceur_285
+    400548: porte_ascenceur_285 1
+    400550: porte_ascenceur_285 2
+    400552: porte_ascenceur_285 3
+    400554: porte_ascenceur_286
+    400556: porte_ascenceur_286 1
+    400558: porte_ascenceur_286 2
+    400560: porte_ascenceur_286 3
+    400562: porte_ascenceur_287
+    400564: porte_ascenceur_287 1
+    400566: porte_ascenceur_287 2
+    400568: porte_ascenceur_287 3
+    400570: porte_ascenceur_288
+    400572: porte_ascenceur_288 1
+    400574: porte_ascenceur_288 2
+    400576: porte_ascenceur_288 3
+    400578: porte_ascenceur_289
+    400580: porte_ascenceur_289 1
+    400582: porte_ascenceur_289 2
+    400584: porte_ascenceur_289 3
+    400586: porte_ascenceur_290
+    400588: porte_ascenceur_290 1
+    400590: porte_ascenceur_290 2
+    400592: porte_ascenceur_290 3
+    400594: porte_ascenceur_291
+    400596: porte_ascenceur_291 1
+    400598: porte_ascenceur_291 2
+    400600: porte_ascenceur_291 3
+    400602: porte_ascenceur_292
+    400604: porte_ascenceur_292 1
+    400606: porte_ascenceur_292 2
+    400608: porte_ascenceur_292 3
+    400610: porte_ascenceur_293
+    400612: porte_ascenceur_293 1
+    400614: porte_ascenceur_293 2
+    400616: porte_ascenceur_293 3
+    400618: porte_ascenceur_294
+    400620: porte_ascenceur_294 1
+    400622: porte_ascenceur_294 2
+    400624: porte_ascenceur_294 3
+    400626: porte_ascenceur_295
+    400628: porte_ascenceur_295 1
+    400630: porte_ascenceur_295 2
+    400632: porte_ascenceur_295 3
+    400634: porte_ascenceur_296
+    400636: porte_ascenceur_296 1
+    400638: porte_ascenceur_296 2
+    400640: porte_ascenceur_296 3
+    400642: porte_ascenceur_297
+    400644: porte_ascenceur_297 1
+    400646: porte_ascenceur_297 2
+    400648: porte_ascenceur_297 3
+    400650: porte_ascenceur_298
+    400652: porte_ascenceur_298 1
+    400654: porte_ascenceur_298 2
+    400656: porte_ascenceur_298 3
+    400658: porte_ascenceur_299
+    400660: porte_ascenceur_299 1
+    400662: porte_ascenceur_299 2
+    400664: porte_ascenceur_299 3
+    400666: porte_ascenceur_300
+    400668: porte_ascenceur_300 1
+    400670: porte_ascenceur_300 2
+    400672: porte_ascenceur_300 3
+    400674: porte_ascenceur_301
+    400676: porte_ascenceur_301 1
+    400678: porte_ascenceur_301 2
+    400680: porte_ascenceur_301 3
+    400682: porte_ascenceur_302
+    400684: porte_ascenceur_302 1
+    400686: porte_ascenceur_302 2
+    400688: porte_ascenceur_302 3
+    400690: porte_ascenceur_303
+    400692: porte_ascenceur_303 1
+    400694: porte_ascenceur_303 2
+    400696: porte_ascenceur_303 3
+    400698: porte_ascenceur_304
+    400700: porte_ascenceur_304 1
+    400702: porte_ascenceur_304 2
+    400704: porte_ascenceur_304 3
+    400706: porte_ascenceur_305
+    400708: porte_ascenceur_305 1
+    400710: porte_ascenceur_305 2
+    400712: porte_ascenceur_305 3
+    400714: porte_ascenceur_306
+    400716: porte_ascenceur_306 1
+    400718: porte_ascenceur_306 2
+    400720: porte_ascenceur_306 3
+    400722: porte_ascenceur_307
+    400724: porte_ascenceur_307 1
+    400726: porte_ascenceur_307 2
+    400728: porte_ascenceur_307 3
+    400730: porte_ascenceur_308
+    400732: porte_ascenceur_308 1
+    400734: porte_ascenceur_308 2
+    400736: porte_ascenceur_308 3
+    400738: porte_ascenceur_309
+    400740: porte_ascenceur_309 1
+    400742: porte_ascenceur_309 2
+    400744: porte_ascenceur_309 3
+    400746: porte_D
+    400748: porte_D 1
+    400750: porte_D 2
+    400752: porte_G
+    400754: porte_G 1
+    400756: porte_G 2
+    400758: portes
+    400760: porte_ascenceur_273 4
+    400762: porte_ascenceur_273 5
+    400764: porte_ascenceur_274 4
+    400766: porte_ascenceur_274 5
+    400768: porte_ascenceur_291 4
+    400770: porte_ascenceur_291 5
+    400772: porte_ascenceur_292 4
+    400774: porte_ascenceur_292 5
+    400776: porte_ascenceur_306 4
+    400778: porte_ascenceur_306 5
+    400780: porte_ascenceur_307 4
+    400782: porte_ascenceur_307 5
+    400784: porte_ascenceur_310
+    400786: porte_ascenceur_310 1
+    400788: portes_verticals
+    2300000: cable
+    2300002: cable 1
+    2300004: cable 2
+    2300006: cable1
+    2300008: cable2
+    2300010: cable3
+    2300012: cable3 1
+    2300014: cable_tendu
+    2300016: cable_tendu1
+    2300018: cable_tendu1 1
+    2300020: cable_tendu2
+    2300022: cache_moteur
+    2300024: grillage_dense10
+    2300026: grillage_dense11
+    2300028: grillage_dense12
+    2300030: grillage_dense13
+    2300032: grillage_dense14
+    2300034: grillage_dense15
+    2300036: grillage_dense16
+    2300038: grillage_dense17
+    2300040: grillage_dense6
+    2300042: pCube144
+    2300044: pCube160
+    2300046: pCube163
+    2300048: pCube179
+    2300050: pCube180
+    2300052: pCube181
+    2300054: pCube186
+    2300056: pCube188
+    2300058: pCube192
+    2300060: pCube197
+    2300062: pCube199
+    2300064: pCube200
+    2300066: pCube201
+    2300068: pCube202
+    2300070: pCube206
+    2300072: pCube208
+    2300074: pCube218
+    2300076: pCube218 1
+    2300078: pCube218 2
+    2300080: pCube218 3
+    2300082: pCube220
+    2300084: pCube224
+    2300086: pCube228
+    2300088: pCube229
+    2300090: pCube230
+    2300092: pCube231
+    2300094: pCube232
+    2300096: pCube233
+    2300098: pCube234
+    2300100: pCube235
+    2300102: pCube236
+    2300104: pCube237
+    2300106: pCube246
+    2300108: pCube247
+    2300110: pCube248
+    2300112: pCube249
+    2300114: pCube250
+    2300116: pCube251
+    2300118: pCube252
+    2300120: pCube253
+    2300122: pCube254
+    2300124: pCube255
+    2300126: pCube256
+    2300128: pCube257
+    2300130: pCube258
+    2300132: pCube259
+    2300134: pCube260
+    2300136: pCube261
+    2300138: pCube262
+    2300140: pCube263
+    2300142: pCube264
+    2300144: pCube265
+    2300146: pCube266
+    2300148: pCube267
+    2300150: pCube268
+    2300152: pCube269
+    2300154: pCube271
+    2300156: pCube271 1
+    2300158: pCube271 2
+    2300160: pCube271 3
+    2300162: pCube272
+    2300164: pCube272 1
+    2300166: pCube272 2
+    2300168: pCube272 3
+    2300170: pCube273
+    2300172: pCube273 1
+    2300174: pCube273 2
+    2300176: pCube273 3
+    2300178: pCube274
+    2300180: pCube274 1
+    2300182: pCube274 2
+    2300184: pCube274 3
+    2300186: pCube275
+    2300188: pCube275 1
+    2300190: pCube275 2
+    2300192: pCube275 3
+    2300194: pCube276
+    2300196: pCube276 1
+    2300198: pCube276 2
+    2300200: pCube276 3
+    2300202: pCube277
+    2300204: pCube277 1
+    2300206: pCube277 2
+    2300208: pCube277 3
+    2300210: pCube278
+    2300212: pCube278 1
+    2300214: pCube278 2
+    2300216: pCube278 3
+    2300218: pCube279
+    2300220: pCube279 1
+    2300222: pCube279 2
+    2300224: pCube279 3
+    2300226: pCube280
+    2300228: pCube280 1
+    2300230: pCube280 2
+    2300232: pCube280 3
+    2300234: pCube281
+    2300236: pCube281 1
+    2300238: pCube281 2
+    2300240: pCube281 3
+    2300242: pCylinder11
+    2300244: pCylinder12
+    2300246: pCylinder13
+    2300248: pCylinder17
+    2300250: pCylinder20
+    2300252: pCylinder21
+    2300254: pCylinder22
+    2300256: pente_marche
+    2300258: pSphere1
+    2300260: pSphere2
+    2300262: pSphere3
+    2300264: pSphere4
+    2300266: roue
+    2300268: roue 1
+    2300270: porte_ascenceur_247
+    2300272: porte_ascenceur_247 1
+    2300274: porte_ascenceur_247 2
+    2300276: porte_ascenceur_247 3
+    2300278: porte_ascenceur_249
+    2300280: porte_ascenceur_249 1
+    2300282: porte_ascenceur_249 2
+    2300284: porte_ascenceur_249 3
+    2300286: porte_ascenceur_251
+    2300288: porte_ascenceur_251 1
+    2300290: porte_ascenceur_251 2
+    2300292: porte_ascenceur_251 3
+    2300294: porte_ascenceur_252
+    2300296: porte_ascenceur_252 1
+    2300298: porte_ascenceur_252 2
+    2300300: porte_ascenceur_252 3
+    2300302: porte_ascenceur_253
+    2300304: porte_ascenceur_253 1
+    2300306: porte_ascenceur_253 2
+    2300308: porte_ascenceur_253 3
+    2300310: porte_ascenceur_255
+    2300312: porte_ascenceur_255 1
+    2300314: porte_ascenceur_255 2
+    2300316: porte_ascenceur_255 3
+    2300318: porte_ascenceur_256
+    2300320: porte_ascenceur_256 1
+    2300322: porte_ascenceur_256 2
+    2300324: porte_ascenceur_256 3
+    2300326: porte_ascenceur_258
+    2300328: porte_ascenceur_258 1
+    2300330: porte_ascenceur_258 2
+    2300332: porte_ascenceur_258 3
+    2300334: porte_ascenceur_265
+    2300336: porte_ascenceur_265 1
+    2300338: porte_ascenceur_265 2
+    2300340: porte_ascenceur_265 3
+    2300342: porte_ascenceur_266
+    2300344: porte_ascenceur_266 1
+    2300346: porte_ascenceur_266 2
+    2300348: porte_ascenceur_266 3
+    2300350: porte_ascenceur_267
+    2300352: porte_ascenceur_267 1
+    2300354: porte_ascenceur_267 2
+    2300356: porte_ascenceur_267 3
+    2300358: porte_ascenceur_268
+    2300360: porte_ascenceur_268 1
+    2300362: porte_ascenceur_268 2
+    2300364: porte_ascenceur_268 3
+    2300366: porte_ascenceur_269
+    2300368: porte_ascenceur_269 1
+    2300370: porte_ascenceur_269 2
+    2300372: porte_ascenceur_269 3
+    2300374: porte_ascenceur_270
+    2300376: porte_ascenceur_270 1
+    2300378: porte_ascenceur_270 2
+    2300380: porte_ascenceur_270 3
+    2300382: porte_ascenceur_271
+    2300384: porte_ascenceur_271 1
+    2300386: porte_ascenceur_271 2
+    2300388: porte_ascenceur_271 3
+    2300390: porte_ascenceur_272
+    2300392: porte_ascenceur_272 1
+    2300394: porte_ascenceur_272 2
+    2300396: porte_ascenceur_272 3
+    2300398: porte_ascenceur_273
+    2300400: porte_ascenceur_273 1
+    2300402: porte_ascenceur_273 2
+    2300404: porte_ascenceur_273 3
+    2300406: porte_ascenceur_274
+    2300408: porte_ascenceur_274 1
+    2300410: porte_ascenceur_274 2
+    2300412: porte_ascenceur_274 3
+    2300414: porte_ascenceur_275
+    2300416: porte_ascenceur_275 1
+    2300418: porte_ascenceur_275 2
+    2300420: porte_ascenceur_275 3
+    2300422: porte_ascenceur_276
+    2300424: porte_ascenceur_276 1
+    2300426: porte_ascenceur_276 2
+    2300428: porte_ascenceur_276 3
+    2300430: porte_ascenceur_277
+    2300432: porte_ascenceur_277 1
+    2300434: porte_ascenceur_277 2
+    2300436: porte_ascenceur_277 3
+    2300438: porte_ascenceur_278
+    2300440: porte_ascenceur_278 1
+    2300442: porte_ascenceur_278 2
+    2300444: porte_ascenceur_278 3
+    2300446: porte_ascenceur_279
+    2300448: porte_ascenceur_279 1
+    2300450: porte_ascenceur_279 2
+    2300452: porte_ascenceur_279 3
+    2300454: porte_ascenceur_280
+    2300456: porte_ascenceur_280 1
+    2300458: porte_ascenceur_280 2
+    2300460: porte_ascenceur_280 3
+    2300462: porte_ascenceur_281
+    2300464: porte_ascenceur_281 1
+    2300466: porte_ascenceur_281 2
+    2300468: porte_ascenceur_281 3
+    2300470: porte_ascenceur_282
+    2300472: porte_ascenceur_282 1
+    2300474: porte_ascenceur_282 2
+    2300476: porte_ascenceur_282 3
+    2300478: porte_ascenceur_283
+    2300480: porte_ascenceur_283 1
+    2300482: porte_ascenceur_283 2
+    2300484: porte_ascenceur_283 3
+    2300486: porte_ascenceur_284
+    2300488: porte_ascenceur_284 1
+    2300490: porte_ascenceur_284 2
+    2300492: porte_ascenceur_284 3
+    2300494: porte_ascenceur_285
+    2300496: porte_ascenceur_285 1
+    2300498: porte_ascenceur_285 2
+    2300500: porte_ascenceur_285 3
+    2300502: porte_ascenceur_286
+    2300504: porte_ascenceur_286 1
+    2300506: porte_ascenceur_286 2
+    2300508: porte_ascenceur_286 3
+    2300510: porte_ascenceur_287
+    2300512: porte_ascenceur_287 1
+    2300514: porte_ascenceur_287 2
+    2300516: porte_ascenceur_287 3
+    2300518: porte_ascenceur_288
+    2300520: porte_ascenceur_288 1
+    2300522: porte_ascenceur_288 2
+    2300524: porte_ascenceur_288 3
+    2300526: porte_ascenceur_289
+    2300528: porte_ascenceur_289 1
+    2300530: porte_ascenceur_289 2
+    2300532: porte_ascenceur_289 3
+    2300534: porte_ascenceur_290
+    2300536: porte_ascenceur_290 1
+    2300538: porte_ascenceur_290 2
+    2300540: porte_ascenceur_290 3
+    2300542: porte_ascenceur_291
+    2300544: porte_ascenceur_291 1
+    2300546: porte_ascenceur_291 2
+    2300548: porte_ascenceur_291 3
+    2300550: porte_ascenceur_292
+    2300552: porte_ascenceur_292 1
+    2300554: porte_ascenceur_292 2
+    2300556: porte_ascenceur_292 3
+    2300558: porte_ascenceur_293
+    2300560: porte_ascenceur_293 1
+    2300562: porte_ascenceur_293 2
+    2300564: porte_ascenceur_293 3
+    2300566: porte_ascenceur_294
+    2300568: porte_ascenceur_294 1
+    2300570: porte_ascenceur_294 2
+    2300572: porte_ascenceur_294 3
+    2300574: porte_ascenceur_295
+    2300576: porte_ascenceur_295 1
+    2300578: porte_ascenceur_295 2
+    2300580: porte_ascenceur_295 3
+    2300582: porte_ascenceur_296
+    2300584: porte_ascenceur_296 1
+    2300586: porte_ascenceur_296 2
+    2300588: porte_ascenceur_296 3
+    2300590: porte_ascenceur_297
+    2300592: porte_ascenceur_297 1
+    2300594: porte_ascenceur_297 2
+    2300596: porte_ascenceur_297 3
+    2300598: porte_ascenceur_298
+    2300600: porte_ascenceur_298 1
+    2300602: porte_ascenceur_298 2
+    2300604: porte_ascenceur_298 3
+    2300606: porte_ascenceur_299
+    2300608: porte_ascenceur_299 1
+    2300610: porte_ascenceur_299 2
+    2300612: porte_ascenceur_299 3
+    2300614: porte_ascenceur_300
+    2300616: porte_ascenceur_300 1
+    2300618: porte_ascenceur_300 2
+    2300620: porte_ascenceur_300 3
+    2300622: porte_ascenceur_301
+    2300624: porte_ascenceur_301 1
+    2300626: porte_ascenceur_301 2
+    2300628: porte_ascenceur_301 3
+    2300630: porte_ascenceur_302
+    2300632: porte_ascenceur_302 1
+    2300634: porte_ascenceur_302 2
+    2300636: porte_ascenceur_302 3
+    2300638: porte_ascenceur_303
+    2300640: porte_ascenceur_303 1
+    2300642: porte_ascenceur_303 2
+    2300644: porte_ascenceur_303 3
+    2300646: porte_ascenceur_304
+    2300648: porte_ascenceur_304 1
+    2300650: porte_ascenceur_304 2
+    2300652: porte_ascenceur_304 3
+    2300654: porte_ascenceur_305
+    2300656: porte_ascenceur_305 1
+    2300658: porte_ascenceur_305 2
+    2300660: porte_ascenceur_305 3
+    2300662: porte_ascenceur_306
+    2300664: porte_ascenceur_306 1
+    2300666: porte_ascenceur_306 2
+    2300668: porte_ascenceur_306 3
+    2300670: porte_ascenceur_307
+    2300672: porte_ascenceur_307 1
+    2300674: porte_ascenceur_307 2
+    2300676: porte_ascenceur_307 3
+    2300678: porte_ascenceur_308
+    2300680: porte_ascenceur_308 1
+    2300682: porte_ascenceur_308 2
+    2300684: porte_ascenceur_308 3
+    2300686: porte_ascenceur_309
+    2300688: porte_ascenceur_309 1
+    2300690: porte_ascenceur_309 2
+    2300692: porte_ascenceur_309 3
+    2300694: porte_ascenceur_273 4
+    2300696: porte_ascenceur_273 5
+    2300698: porte_ascenceur_274 4
+    2300700: porte_ascenceur_274 5
+    2300702: porte_ascenceur_291 4
+    2300704: porte_ascenceur_291 5
+    2300706: porte_ascenceur_292 4
+    2300708: porte_ascenceur_292 5
+    2300710: porte_ascenceur_306 4
+    2300712: porte_ascenceur_306 5
+    2300714: porte_ascenceur_307 4
+    2300716: porte_ascenceur_307 5
+    2300718: porte_ascenceur_310
+    2300720: porte_ascenceur_310 1
+    3300000: cable
+    3300002: cable 1
+    3300004: cable 2
+    3300006: cable1
+    3300008: cable2
+    3300010: cable3
+    3300012: cable3 1
+    3300014: cable_tendu
+    3300016: cable_tendu1
+    3300018: cable_tendu1 1
+    3300020: cable_tendu2
+    3300022: cache_moteur
+    3300024: grillage_dense10
+    3300026: grillage_dense11
+    3300028: grillage_dense12
+    3300030: grillage_dense13
+    3300032: grillage_dense14
+    3300034: grillage_dense15
+    3300036: grillage_dense16
+    3300038: grillage_dense17
+    3300040: grillage_dense6
+    3300042: pCube144
+    3300044: pCube160
+    3300046: pCube163
+    3300048: pCube179
+    3300050: pCube180
+    3300052: pCube181
+    3300054: pCube186
+    3300056: pCube188
+    3300058: pCube192
+    3300060: pCube197
+    3300062: pCube199
+    3300064: pCube200
+    3300066: pCube201
+    3300068: pCube202
+    3300070: pCube206
+    3300072: pCube208
+    3300074: pCube218
+    3300076: pCube218 1
+    3300078: pCube218 2
+    3300080: pCube218 3
+    3300082: pCube220
+    3300084: pCube224
+    3300086: pCube228
+    3300088: pCube229
+    3300090: pCube230
+    3300092: pCube231
+    3300094: pCube232
+    3300096: pCube233
+    3300098: pCube234
+    3300100: pCube235
+    3300102: pCube236
+    3300104: pCube237
+    3300106: pCube246
+    3300108: pCube247
+    3300110: pCube248
+    3300112: pCube249
+    3300114: pCube250
+    3300116: pCube251
+    3300118: pCube252
+    3300120: pCube253
+    3300122: pCube254
+    3300124: pCube255
+    3300126: pCube256
+    3300128: pCube257
+    3300130: pCube258
+    3300132: pCube259
+    3300134: pCube260
+    3300136: pCube261
+    3300138: pCube262
+    3300140: pCube263
+    3300142: pCube264
+    3300144: pCube265
+    3300146: pCube266
+    3300148: pCube267
+    3300150: pCube268
+    3300152: pCube269
+    3300154: pCube271
+    3300156: pCube271 1
+    3300158: pCube271 2
+    3300160: pCube271 3
+    3300162: pCube272
+    3300164: pCube272 1
+    3300166: pCube272 2
+    3300168: pCube272 3
+    3300170: pCube273
+    3300172: pCube273 1
+    3300174: pCube273 2
+    3300176: pCube273 3
+    3300178: pCube274
+    3300180: pCube274 1
+    3300182: pCube274 2
+    3300184: pCube274 3
+    3300186: pCube275
+    3300188: pCube275 1
+    3300190: pCube275 2
+    3300192: pCube275 3
+    3300194: pCube276
+    3300196: pCube276 1
+    3300198: pCube276 2
+    3300200: pCube276 3
+    3300202: pCube277
+    3300204: pCube277 1
+    3300206: pCube277 2
+    3300208: pCube277 3
+    3300210: pCube278
+    3300212: pCube278 1
+    3300214: pCube278 2
+    3300216: pCube278 3
+    3300218: pCube279
+    3300220: pCube279 1
+    3300222: pCube279 2
+    3300224: pCube279 3
+    3300226: pCube280
+    3300228: pCube280 1
+    3300230: pCube280 2
+    3300232: pCube280 3
+    3300234: pCube281
+    3300236: pCube281 1
+    3300238: pCube281 2
+    3300240: pCube281 3
+    3300242: pCylinder11
+    3300244: pCylinder12
+    3300246: pCylinder13
+    3300248: pCylinder17
+    3300250: pCylinder20
+    3300252: pCylinder21
+    3300254: pCylinder22
+    3300256: pente_marche
+    3300258: pSphere1
+    3300260: pSphere2
+    3300262: pSphere3
+    3300264: pSphere4
+    3300266: roue
+    3300268: roue 1
+    3300270: porte_ascenceur_247
+    3300272: porte_ascenceur_247 1
+    3300274: porte_ascenceur_247 2
+    3300276: porte_ascenceur_247 3
+    3300278: porte_ascenceur_249
+    3300280: porte_ascenceur_249 1
+    3300282: porte_ascenceur_249 2
+    3300284: porte_ascenceur_249 3
+    3300286: porte_ascenceur_251
+    3300288: porte_ascenceur_251 1
+    3300290: porte_ascenceur_251 2
+    3300292: porte_ascenceur_251 3
+    3300294: porte_ascenceur_252
+    3300296: porte_ascenceur_252 1
+    3300298: porte_ascenceur_252 2
+    3300300: porte_ascenceur_252 3
+    3300302: porte_ascenceur_253
+    3300304: porte_ascenceur_253 1
+    3300306: porte_ascenceur_253 2
+    3300308: porte_ascenceur_253 3
+    3300310: porte_ascenceur_255
+    3300312: porte_ascenceur_255 1
+    3300314: porte_ascenceur_255 2
+    3300316: porte_ascenceur_255 3
+    3300318: porte_ascenceur_256
+    3300320: porte_ascenceur_256 1
+    3300322: porte_ascenceur_256 2
+    3300324: porte_ascenceur_256 3
+    3300326: porte_ascenceur_258
+    3300328: porte_ascenceur_258 1
+    3300330: porte_ascenceur_258 2
+    3300332: porte_ascenceur_258 3
+    3300334: porte_ascenceur_265
+    3300336: porte_ascenceur_265 1
+    3300338: porte_ascenceur_265 2
+    3300340: porte_ascenceur_265 3
+    3300342: porte_ascenceur_266
+    3300344: porte_ascenceur_266 1
+    3300346: porte_ascenceur_266 2
+    3300348: porte_ascenceur_266 3
+    3300350: porte_ascenceur_267
+    3300352: porte_ascenceur_267 1
+    3300354: porte_ascenceur_267 2
+    3300356: porte_ascenceur_267 3
+    3300358: porte_ascenceur_268
+    3300360: porte_ascenceur_268 1
+    3300362: porte_ascenceur_268 2
+    3300364: porte_ascenceur_268 3
+    3300366: porte_ascenceur_269
+    3300368: porte_ascenceur_269 1
+    3300370: porte_ascenceur_269 2
+    3300372: porte_ascenceur_269 3
+    3300374: porte_ascenceur_270
+    3300376: porte_ascenceur_270 1
+    3300378: porte_ascenceur_270 2
+    3300380: porte_ascenceur_270 3
+    3300382: porte_ascenceur_271
+    3300384: porte_ascenceur_271 1
+    3300386: porte_ascenceur_271 2
+    3300388: porte_ascenceur_271 3
+    3300390: porte_ascenceur_272
+    3300392: porte_ascenceur_272 1
+    3300394: porte_ascenceur_272 2
+    3300396: porte_ascenceur_272 3
+    3300398: porte_ascenceur_273
+    3300400: porte_ascenceur_273 1
+    3300402: porte_ascenceur_273 2
+    3300404: porte_ascenceur_273 3
+    3300406: porte_ascenceur_274
+    3300408: porte_ascenceur_274 1
+    3300410: porte_ascenceur_274 2
+    3300412: porte_ascenceur_274 3
+    3300414: porte_ascenceur_275
+    3300416: porte_ascenceur_275 1
+    3300418: porte_ascenceur_275 2
+    3300420: porte_ascenceur_275 3
+    3300422: porte_ascenceur_276
+    3300424: porte_ascenceur_276 1
+    3300426: porte_ascenceur_276 2
+    3300428: porte_ascenceur_276 3
+    3300430: porte_ascenceur_277
+    3300432: porte_ascenceur_277 1
+    3300434: porte_ascenceur_277 2
+    3300436: porte_ascenceur_277 3
+    3300438: porte_ascenceur_278
+    3300440: porte_ascenceur_278 1
+    3300442: porte_ascenceur_278 2
+    3300444: porte_ascenceur_278 3
+    3300446: porte_ascenceur_279
+    3300448: porte_ascenceur_279 1
+    3300450: porte_ascenceur_279 2
+    3300452: porte_ascenceur_279 3
+    3300454: porte_ascenceur_280
+    3300456: porte_ascenceur_280 1
+    3300458: porte_ascenceur_280 2
+    3300460: porte_ascenceur_280 3
+    3300462: porte_ascenceur_281
+    3300464: porte_ascenceur_281 1
+    3300466: porte_ascenceur_281 2
+    3300468: porte_ascenceur_281 3
+    3300470: porte_ascenceur_282
+    3300472: porte_ascenceur_282 1
+    3300474: porte_ascenceur_282 2
+    3300476: porte_ascenceur_282 3
+    3300478: porte_ascenceur_283
+    3300480: porte_ascenceur_283 1
+    3300482: porte_ascenceur_283 2
+    3300484: porte_ascenceur_283 3
+    3300486: porte_ascenceur_284
+    3300488: porte_ascenceur_284 1
+    3300490: porte_ascenceur_284 2
+    3300492: porte_ascenceur_284 3
+    3300494: porte_ascenceur_285
+    3300496: porte_ascenceur_285 1
+    3300498: porte_ascenceur_285 2
+    3300500: porte_ascenceur_285 3
+    3300502: porte_ascenceur_286
+    3300504: porte_ascenceur_286 1
+    3300506: porte_ascenceur_286 2
+    3300508: porte_ascenceur_286 3
+    3300510: porte_ascenceur_287
+    3300512: porte_ascenceur_287 1
+    3300514: porte_ascenceur_287 2
+    3300516: porte_ascenceur_287 3
+    3300518: porte_ascenceur_288
+    3300520: porte_ascenceur_288 1
+    3300522: porte_ascenceur_288 2
+    3300524: porte_ascenceur_288 3
+    3300526: porte_ascenceur_289
+    3300528: porte_ascenceur_289 1
+    3300530: porte_ascenceur_289 2
+    3300532: porte_ascenceur_289 3
+    3300534: porte_ascenceur_290
+    3300536: porte_ascenceur_290 1
+    3300538: porte_ascenceur_290 2
+    3300540: porte_ascenceur_290 3
+    3300542: porte_ascenceur_291
+    3300544: porte_ascenceur_291 1
+    3300546: porte_ascenceur_291 2
+    3300548: porte_ascenceur_291 3
+    3300550: porte_ascenceur_292
+    3300552: porte_ascenceur_292 1
+    3300554: porte_ascenceur_292 2
+    3300556: porte_ascenceur_292 3
+    3300558: porte_ascenceur_293
+    3300560: porte_ascenceur_293 1
+    3300562: porte_ascenceur_293 2
+    3300564: porte_ascenceur_293 3
+    3300566: porte_ascenceur_294
+    3300568: porte_ascenceur_294 1
+    3300570: porte_ascenceur_294 2
+    3300572: porte_ascenceur_294 3
+    3300574: porte_ascenceur_295
+    3300576: porte_ascenceur_295 1
+    3300578: porte_ascenceur_295 2
+    3300580: porte_ascenceur_295 3
+    3300582: porte_ascenceur_296
+    3300584: porte_ascenceur_296 1
+    3300586: porte_ascenceur_296 2
+    3300588: porte_ascenceur_296 3
+    3300590: porte_ascenceur_297
+    3300592: porte_ascenceur_297 1
+    3300594: porte_ascenceur_297 2
+    3300596: porte_ascenceur_297 3
+    3300598: porte_ascenceur_298
+    3300600: porte_ascenceur_298 1
+    3300602: porte_ascenceur_298 2
+    3300604: porte_ascenceur_298 3
+    3300606: porte_ascenceur_299
+    3300608: porte_ascenceur_299 1
+    3300610: porte_ascenceur_299 2
+    3300612: porte_ascenceur_299 3
+    3300614: porte_ascenceur_300
+    3300616: porte_ascenceur_300 1
+    3300618: porte_ascenceur_300 2
+    3300620: porte_ascenceur_300 3
+    3300622: porte_ascenceur_301
+    3300624: porte_ascenceur_301 1
+    3300626: porte_ascenceur_301 2
+    3300628: porte_ascenceur_301 3
+    3300630: porte_ascenceur_302
+    3300632: porte_ascenceur_302 1
+    3300634: porte_ascenceur_302 2
+    3300636: porte_ascenceur_302 3
+    3300638: porte_ascenceur_303
+    3300640: porte_ascenceur_303 1
+    3300642: porte_ascenceur_303 2
+    3300644: porte_ascenceur_303 3
+    3300646: porte_ascenceur_304
+    3300648: porte_ascenceur_304 1
+    3300650: porte_ascenceur_304 2
+    3300652: porte_ascenceur_304 3
+    3300654: porte_ascenceur_305
+    3300656: porte_ascenceur_305 1
+    3300658: porte_ascenceur_305 2
+    3300660: porte_ascenceur_305 3
+    3300662: porte_ascenceur_306
+    3300664: porte_ascenceur_306 1
+    3300666: porte_ascenceur_306 2
+    3300668: porte_ascenceur_306 3
+    3300670: porte_ascenceur_307
+    3300672: porte_ascenceur_307 1
+    3300674: porte_ascenceur_307 2
+    3300676: porte_ascenceur_307 3
+    3300678: porte_ascenceur_308
+    3300680: porte_ascenceur_308 1
+    3300682: porte_ascenceur_308 2
+    3300684: porte_ascenceur_308 3
+    3300686: porte_ascenceur_309
+    3300688: porte_ascenceur_309 1
+    3300690: porte_ascenceur_309 2
+    3300692: porte_ascenceur_309 3
+    3300694: porte_ascenceur_273 4
+    3300696: porte_ascenceur_273 5
+    3300698: porte_ascenceur_274 4
+    3300700: porte_ascenceur_274 5
+    3300702: porte_ascenceur_291 4
+    3300704: porte_ascenceur_291 5
+    3300706: porte_ascenceur_292 4
+    3300708: porte_ascenceur_292 5
+    3300710: porte_ascenceur_306 4
+    3300712: porte_ascenceur_306 5
+    3300714: porte_ascenceur_307 4
+    3300716: porte_ascenceur_307 5
+    3300718: porte_ascenceur_310
+    3300720: porte_ascenceur_310 1
+    4300000: cache_moteur
+    4300002: pente_marche
+    4300004: pCube234
+    4300006: pCube233
+    4300008: pCube232
+    4300010: pCube202
+    4300012: pCube197
+    4300014: pCylinder17
+    4300016: pCube163
+    4300018: pCube160
+    4300020: pCube257
+    4300022: pCylinder20
+    4300024: pCylinder21
+    4300026: pCylinder22
+    4300028: pCube258
+    4300030: pCube259
+    4300032: pCube260
+    4300034: pCube261
+    4300036: pCube262
+    4300038: pCube263
+    4300040: pCube264
+    4300042: pCube265
+    4300044: pCube224
+    4300046: pCube267
+    4300048: pCube268
+    4300050: pCube220
+    4300052: pCube266
+    4300054: pCube247
+    4300056: pSphere3
+    4300058: pSphere4
+    4300060: grillage_dense10
+    4300062: pSphere1
+    4300064: pSphere2
+    4300066: pCube269
+    4300068: grillage_dense11
+    4300070: grillage_dense17
+    4300072: pCube179
+    4300074: pCube180
+    4300076: pCylinder11
+    4300078: pCube192
+    4300080: pCylinder12
+    4300082: pCube208
+    4300084: pCube181
+    4300086: pCube186
+    4300088: pCube188
+    4300090: pCube248
+    4300092: pCube249
+    4300094: pCube250
+    4300096: pCube251
+    4300098: pCube252
+    4300100: pCube253
+    4300102: pCube254
+    4300104: pCube255
+    4300106: pCube201
+    4300108: pCube199
+    4300110: pCylinder13
+    4300112: pCube144
+    4300114: pCube200
+    4300116: grillage_dense6
+    4300118: pCube206
+    4300120: pCube230
+    4300122: pCube229
+    4300124: pCube231
+    4300126: pCube235
+    4300128: pCube236
+    4300130: pCube237
+    4300132: pCube228
+    4300134: pCube246
+    4300136: grillage_dense13
+    4300138: grillage_dense14
+    4300140: grillage_dense15
+    4300142: grillage_dense16
+    4300144: pCube256
+    4300146: grillage_dense12
+    4300148: cable
+    4300150: cable2
+    4300152: cable1
+    4300154: roue
+    4300156: pCube218
+    4300158: pCube271
+    4300160: pCube272
+    4300162: pCube273
+    4300164: pCube274
+    4300166: pCube275
+    4300168: pCube276
+    4300170: pCube277
+    4300172: pCube278
+    4300174: pCube279
+    4300176: pCube280
+    4300178: pCube281
+    4300180: pCube218
+    4300182: pCube271
+    4300184: pCube272
+    4300186: pCube273
+    4300188: pCube274
+    4300190: pCube275
+    4300192: pCube276
+    4300194: pCube277
+    4300196: pCube278
+    4300198: pCube279
+    4300200: pCube280
+    4300202: pCube281
+    4300204: cable3
+    4300206: cable
+    4300208: cable_tendu1
+    4300210: cable_tendu
+    4300212: roue
+    4300214: pCube218
+    4300216: pCube271
+    4300218: pCube272
+    4300220: pCube273
+    4300222: pCube274
+    4300224: pCube275
+    4300226: pCube276
+    4300228: pCube277
+    4300230: pCube278
+    4300232: pCube279
+    4300234: pCube280
+    4300236: pCube281
+    4300238: pCube218
+    4300240: pCube271
+    4300242: pCube272
+    4300244: pCube273
+    4300246: pCube274
+    4300248: pCube275
+    4300250: pCube276
+    4300252: pCube277
+    4300254: pCube278
+    4300256: pCube279
+    4300258: pCube280
+    4300260: pCube281
+    4300262: cable3
+    4300264: cable
+    4300266: cable_tendu1
+    4300268: cable_tendu2
+    4300270: porte_ascenceur_247
+    4300272: porte_ascenceur_279
+    4300274: porte_ascenceur_277
+    4300276: porte_ascenceur_295
+    4300278: porte_ascenceur_297
+    4300280: porte_ascenceur_280
+    4300282: porte_ascenceur_282
+    4300284: porte_ascenceur_251
+    4300286: porte_ascenceur_271
+    4300288: porte_ascenceur_272
+    4300290: porte_ascenceur_298
+    4300292: porte_ascenceur_300
+    4300294: porte_ascenceur_283
+    4300296: porte_ascenceur_285
+    4300298: porte_ascenceur_252
+    4300300: porte_ascenceur_269
+    4300302: porte_ascenceur_270
+    4300304: porte_ascenceur_301
+    4300306: porte_ascenceur_302
+    4300308: porte_ascenceur_286
+    4300310: porte_ascenceur_287
+    4300312: porte_ascenceur_253
+    4300314: porte_ascenceur_267
+    4300316: porte_ascenceur_268
+    4300318: porte_ascenceur_303
+    4300320: porte_ascenceur_304
+    4300322: porte_ascenceur_288
+    4300324: porte_ascenceur_289
+    4300326: porte_ascenceur_255
+    4300328: porte_ascenceur_265
+    4300330: porte_ascenceur_266
+    4300332: porte_ascenceur_278
+    4300334: porte_ascenceur_296
+    4300336: porte_ascenceur_299
+    4300338: porte_ascenceur_305
+    4300340: porte_ascenceur_284
+    4300342: porte_ascenceur_290
+    4300344: porte_ascenceur_281
+    4300346: porte_ascenceur_256
+    4300348: porte_ascenceur_273
+    4300350: porte_ascenceur_274
+    4300352: porte_ascenceur_306
+    4300354: porte_ascenceur_307
+    4300356: porte_ascenceur_291
+    4300358: porte_ascenceur_292
+    4300360: porte_ascenceur_258
+    4300362: porte_ascenceur_275
+    4300364: porte_ascenceur_276
+    4300366: porte_ascenceur_308
+    4300368: porte_ascenceur_309
+    4300370: porte_ascenceur_293
+    4300372: porte_ascenceur_294
+    4300374: porte_ascenceur_249
+    4300376: porte_ascenceur_247
+    4300378: porte_ascenceur_279
+    4300380: porte_ascenceur_277
+    4300382: porte_ascenceur_295
+    4300384: porte_ascenceur_297
+    4300386: porte_ascenceur_280
+    4300388: porte_ascenceur_282
+    4300390: porte_ascenceur_251
+    4300392: porte_ascenceur_271
+    4300394: porte_ascenceur_272
+    4300396: porte_ascenceur_298
+    4300398: porte_ascenceur_300
+    4300400: porte_ascenceur_283
+    4300402: porte_ascenceur_285
+    4300404: porte_ascenceur_252
+    4300406: porte_ascenceur_269
+    4300408: porte_ascenceur_270
+    4300410: porte_ascenceur_301
+    4300412: porte_ascenceur_302
+    4300414: porte_ascenceur_286
+    4300416: porte_ascenceur_287
+    4300418: porte_ascenceur_253
+    4300420: porte_ascenceur_267
+    4300422: porte_ascenceur_268
+    4300424: porte_ascenceur_303
+    4300426: porte_ascenceur_304
+    4300428: porte_ascenceur_288
+    4300430: porte_ascenceur_289
+    4300432: porte_ascenceur_255
+    4300434: porte_ascenceur_265
+    4300436: porte_ascenceur_266
+    4300438: porte_ascenceur_278
+    4300440: porte_ascenceur_296
+    4300442: porte_ascenceur_299
+    4300444: porte_ascenceur_305
+    4300446: porte_ascenceur_284
+    4300448: porte_ascenceur_290
+    4300450: porte_ascenceur_281
+    4300452: porte_ascenceur_256
+    4300454: porte_ascenceur_273
+    4300456: porte_ascenceur_274
+    4300458: porte_ascenceur_306
+    4300460: porte_ascenceur_307
+    4300462: porte_ascenceur_291
+    4300464: porte_ascenceur_292
+    4300466: porte_ascenceur_258
+    4300468: porte_ascenceur_275
+    4300470: porte_ascenceur_276
+    4300472: porte_ascenceur_308
+    4300474: porte_ascenceur_309
+    4300476: porte_ascenceur_293
+    4300478: porte_ascenceur_294
+    4300480: porte_ascenceur_249
+    4300482: porte_ascenceur_247
+    4300484: porte_ascenceur_279
+    4300486: porte_ascenceur_277
+    4300488: porte_ascenceur_295
+    4300490: porte_ascenceur_297
+    4300492: porte_ascenceur_280
+    4300494: porte_ascenceur_282
+    4300496: porte_ascenceur_251
+    4300498: porte_ascenceur_271
+    4300500: porte_ascenceur_272
+    4300502: porte_ascenceur_298
+    4300504: porte_ascenceur_300
+    4300506: porte_ascenceur_283
+    4300508: porte_ascenceur_285
+    4300510: porte_ascenceur_252
+    4300512: porte_ascenceur_269
+    4300514: porte_ascenceur_270
+    4300516: porte_ascenceur_301
+    4300518: porte_ascenceur_302
+    4300520: porte_ascenceur_286
+    4300522: porte_ascenceur_287
+    4300524: porte_ascenceur_253
+    4300526: porte_ascenceur_267
+    4300528: porte_ascenceur_268
+    4300530: porte_ascenceur_303
+    4300532: porte_ascenceur_304
+    4300534: porte_ascenceur_288
+    4300536: porte_ascenceur_289
+    4300538: porte_ascenceur_255
+    4300540: porte_ascenceur_265
+    4300542: porte_ascenceur_266
+    4300544: porte_ascenceur_278
+    4300546: porte_ascenceur_296
+    4300548: porte_ascenceur_299
+    4300550: porte_ascenceur_305
+    4300552: porte_ascenceur_284
+    4300554: porte_ascenceur_290
+    4300556: porte_ascenceur_281
+    4300558: porte_ascenceur_256
+    4300560: porte_ascenceur_273
+    4300562: porte_ascenceur_274
+    4300564: porte_ascenceur_306
+    4300566: porte_ascenceur_307
+    4300568: porte_ascenceur_291
+    4300570: porte_ascenceur_292
+    4300572: porte_ascenceur_258
+    4300574: porte_ascenceur_275
+    4300576: porte_ascenceur_276
+    4300578: porte_ascenceur_308
+    4300580: porte_ascenceur_309
+    4300582: porte_ascenceur_293
+    4300584: porte_ascenceur_294
+    4300586: porte_ascenceur_249
+    4300588: porte_ascenceur_247
+    4300590: porte_ascenceur_279
+    4300592: porte_ascenceur_277
+    4300594: porte_ascenceur_295
+    4300596: porte_ascenceur_297
+    4300598: porte_ascenceur_280
+    4300600: porte_ascenceur_282
+    4300602: porte_ascenceur_251
+    4300604: porte_ascenceur_271
+    4300606: porte_ascenceur_272
+    4300608: porte_ascenceur_298
+    4300610: porte_ascenceur_300
+    4300612: porte_ascenceur_283
+    4300614: porte_ascenceur_285
+    4300616: porte_ascenceur_252
+    4300618: porte_ascenceur_269
+    4300620: porte_ascenceur_270
+    4300622: porte_ascenceur_301
+    4300624: porte_ascenceur_302
+    4300626: porte_ascenceur_286
+    4300628: porte_ascenceur_287
+    4300630: porte_ascenceur_253
+    4300632: porte_ascenceur_267
+    4300634: porte_ascenceur_268
+    4300636: porte_ascenceur_303
+    4300638: porte_ascenceur_304
+    4300640: porte_ascenceur_288
+    4300642: porte_ascenceur_289
+    4300644: porte_ascenceur_255
+    4300646: porte_ascenceur_265
+    4300648: porte_ascenceur_266
+    4300650: porte_ascenceur_278
+    4300652: porte_ascenceur_296
+    4300654: porte_ascenceur_299
+    4300656: porte_ascenceur_305
+    4300658: porte_ascenceur_284
+    4300660: porte_ascenceur_290
+    4300662: porte_ascenceur_281
+    4300664: porte_ascenceur_256
+    4300666: porte_ascenceur_273
+    4300668: porte_ascenceur_274
+    4300670: porte_ascenceur_306
+    4300672: porte_ascenceur_307
+    4300674: porte_ascenceur_291
+    4300676: porte_ascenceur_292
+    4300678: porte_ascenceur_258
+    4300680: porte_ascenceur_275
+    4300682: porte_ascenceur_276
+    4300684: porte_ascenceur_308
+    4300686: porte_ascenceur_309
+    4300688: porte_ascenceur_293
+    4300690: porte_ascenceur_294
+    4300692: porte_ascenceur_249
+    4300694: porte_ascenceur_310
+    4300696: porte_ascenceur_310
+    4300698: porte_ascenceur_273
+    4300700: porte_ascenceur_274
+    4300702: porte_ascenceur_306
+    4300704: porte_ascenceur_307
+    4300706: porte_ascenceur_291
+    4300708: porte_ascenceur_292
+    4300710: porte_ascenceur_273
+    4300712: porte_ascenceur_274
+    4300714: porte_ascenceur_306
+    4300716: porte_ascenceur_307
+    4300718: porte_ascenceur_291
+    4300720: porte_ascenceur_292
+    7400000: Lift_down
+    7400002: Lift_up
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Lift_down
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 177
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ascenseur
+        weight: 1
+      - path: ascenseur/cage
+        weight: 1
+      - path: ascenseur/cage/boitier
+        weight: 1
+      - path: ascenseur/cage/boitier/pCube199
+        weight: 1
+      - path: ascenseur/cage/boitier/pCube201
+        weight: 1
+      - path: ascenseur/cage/boitier/pCylinder13
+        weight: 1
+      - path: ascenseur/cage/cables
+        weight: 1
+      - path: ascenseur/cage/cables/cable
+        weight: 1
+      - path: ascenseur/cage/cables/cable1
+        weight: 1
+      - path: ascenseur/cage/cables/cable2
+        weight: 1
+      - path: ascenseur/cage/cage 1
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense6
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense12
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense13
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense14
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense15
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense16
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube144
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube200
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube206
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube228
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube229
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube230
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube231
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube235
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube236
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube237
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube246
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube256
+        weight: 1
+      - path: ascenseur/cage/dessus
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube179
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube180
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube181
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube186
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube188
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube192
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube208
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube248
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube249
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube250
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube251
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube252
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube253
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube254
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube255
+        weight: 1
+      - path: ascenseur/cage/dessus/pCylinder11
+        weight: 1
+      - path: ascenseur/cage/dessus/pCylinder12
+        weight: 1
+      - path: ascenseur/structure_fixe
+        weight: 1
+      - path: ascenseur/structure_fixe/cache_moteur
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube160
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube163
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube257
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube258
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube259
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube260
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube261
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube262
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube263
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube264
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube265
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder17
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder20
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder21
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder22
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube197
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube202
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube232
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube233
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube234
+        weight: 1
+      - path: ascenseur/structure_fixe/pente_marche
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/grillage_dense10
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/pCube247
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/pSphere3
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/pSphere4
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/grillage_dense11
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/grillage_dense17
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/pCube269
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/pSphere1
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/pSphere2
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube220
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube224
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube266
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube267
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube268
+        weight: 1
+      - path: rouage_ensemble
+        weight: 1
+      - path: rouage_ensemble/cables_tendus
+        weight: 1
+      - path: rouage_ensemble/cables_tendus/cable_tendu
+        weight: 1
+      - path: rouage_ensemble/cables_tendus/cable_tendu1
+        weight: 1
+      - path: rouage_ensemble/rouage
+        weight: 1
+      - path: rouage_ensemble/rouage/cables 1
+        weight: 1
+      - path: rouage_ensemble/rouage/cables 1/cable 1
+        weight: 1
+      - path: rouage_ensemble/rouage/cables 1/cable3
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube218
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube271
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube272
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube273
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube274
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube275
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube276
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube277
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube278
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube279
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube280
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube281
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube218 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube271 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube272 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube273 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube274 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube275 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube276 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube277 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube278 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube279 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube280 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube281 1
+        weight: 1
+      - path: rouage_ensemble/rouage/roue
+        weight: 1
+      - path: rouage_ensemble1
+        weight: 1
+      - path: rouage_ensemble1/cables_tendus 1
+        weight: 1
+      - path: rouage_ensemble1/cables_tendus 1/cable_tendu1 1
+        weight: 1
+      - path: rouage_ensemble1/cables_tendus 1/cable_tendu2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/cables 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/cables 2/cable 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/cables 2/cable3 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube218 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube271 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube272 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube273 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube274 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube275 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube276 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube277 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube278 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube279 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube280 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube281 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube218 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube271 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube272 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube273 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube274 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube275 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube276 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube277 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube278 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube279 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube280 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube281 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/roue 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Lift_up
+      takeName: Take 001
+      firstFrame: 178
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ascenseur
+        weight: 1
+      - path: ascenseur/cage
+        weight: 1
+      - path: ascenseur/cage/boitier
+        weight: 1
+      - path: ascenseur/cage/boitier/pCube199
+        weight: 1
+      - path: ascenseur/cage/boitier/pCube201
+        weight: 1
+      - path: ascenseur/cage/boitier/pCylinder13
+        weight: 1
+      - path: ascenseur/cage/cables
+        weight: 1
+      - path: ascenseur/cage/cables/cable
+        weight: 1
+      - path: ascenseur/cage/cables/cable1
+        weight: 1
+      - path: ascenseur/cage/cables/cable2
+        weight: 1
+      - path: ascenseur/cage/cage 1
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense6
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense12
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense13
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense14
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense15
+        weight: 1
+      - path: ascenseur/cage/cage 1/grillage_dense16
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube144
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube200
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube206
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube228
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube229
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube230
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube231
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube235
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube236
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube237
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube246
+        weight: 1
+      - path: ascenseur/cage/cage 1/pCube256
+        weight: 1
+      - path: ascenseur/cage/dessus
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube179
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube180
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube181
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube186
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube188
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube192
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube208
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube248
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube249
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube250
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube251
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube252
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube253
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube254
+        weight: 1
+      - path: ascenseur/cage/dessus/pCube255
+        weight: 1
+      - path: ascenseur/cage/dessus/pCylinder11
+        weight: 1
+      - path: ascenseur/cage/dessus/pCylinder12
+        weight: 1
+      - path: ascenseur/structure_fixe
+        weight: 1
+      - path: ascenseur/structure_fixe/cache_moteur
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube160
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube163
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube257
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube258
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube259
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube260
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube261
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube262
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube263
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube264
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCube265
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder17
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder20
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder21
+        weight: 1
+      - path: ascenseur/structure_fixe/fosse/pCylinder22
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube197
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube202
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube232
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube233
+        weight: 1
+      - path: ascenseur/structure_fixe/glissieres/pCube234
+        weight: 1
+      - path: ascenseur/structure_fixe/pente_marche
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/grillage_dense10
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/pCube247
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/pSphere3
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage/pSphere4
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/grillage_dense11
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/grillage_dense17
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/pCube269
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/pSphere1
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cache_rouage1/pSphere2
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube220
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube224
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube266
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube267
+        weight: 1
+      - path: ascenseur/structure_fixe/structure_rouages/cadre/pCube268
+        weight: 1
+      - path: rouage_ensemble
+        weight: 1
+      - path: rouage_ensemble/cables_tendus
+        weight: 1
+      - path: rouage_ensemble/cables_tendus/cable_tendu
+        weight: 1
+      - path: rouage_ensemble/cables_tendus/cable_tendu1
+        weight: 1
+      - path: rouage_ensemble/rouage
+        weight: 1
+      - path: rouage_ensemble/rouage/cables 1
+        weight: 1
+      - path: rouage_ensemble/rouage/cables 1/cable 1
+        weight: 1
+      - path: rouage_ensemble/rouage/cables 1/cable3
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube218
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube271
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube272
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube273
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube274
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube275
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube276
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube277
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube278
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube279
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube280
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons/pCube281
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube218 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube271 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube272 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube273 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube274 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube275 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube276 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube277 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube278 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube279 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube280 1
+        weight: 1
+      - path: rouage_ensemble/rouage/rayons2/pCube281 1
+        weight: 1
+      - path: rouage_ensemble/rouage/roue
+        weight: 1
+      - path: rouage_ensemble1
+        weight: 1
+      - path: rouage_ensemble1/cables_tendus 1
+        weight: 1
+      - path: rouage_ensemble1/cables_tendus 1/cable_tendu1 1
+        weight: 1
+      - path: rouage_ensemble1/cables_tendus 1/cable_tendu2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/cables 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/cables 2/cable 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/cables 2/cable3 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube218 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube271 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube272 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube273 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube274 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube275 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube276 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube277 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube278 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube279 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube280 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons 1/pCube281 2
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube218 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube271 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube272 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube273 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube274 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube275 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube276 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube277 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube278 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube279 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube280 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/rayons2 1/pCube281 3
+        weight: 1
+      - path: rouage_ensemble1/rouage 1/roue 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: bd6e31187f940184fbe0b2c6f771c559
+timeCreated: 1470415829
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barre_echelle_01
+    100002: barre_echelle_04
+    100004: barre_metal
+    100006: fixation2
+    100008: fixation3
+    100010: planche_01
+    100012: planche_S1
+    100014: ramme
+    100016: tourillon_011
+    100018: tourillon_012
+    100020: tourillon_03
+    100022: tourillon_03 1
+    100024: //RootNode
+    100026: vis1
+    400000: barre_echelle_01
+    400002: barre_echelle_04
+    400004: barre_metal
+    400006: fixation2
+    400008: fixation3
+    400010: planche_01
+    400012: planche_S1
+    400014: ramme
+    400016: tourillon_011
+    400018: tourillon_012
+    400020: tourillon_03
+    400022: tourillon_03 1
+    400024: //RootNode
+    400026: vis1
+    2300000: barre_echelle_01
+    2300002: barre_echelle_04
+    2300004: barre_metal
+    2300006: fixation2
+    2300008: fixation3
+    2300010: planche_01
+    2300012: planche_S1
+    2300014: ramme
+    2300016: tourillon_011
+    2300018: tourillon_012
+    2300020: tourillon_03
+    2300022: tourillon_03 1
+    2300024: vis1
+    3300000: barre_echelle_01
+    3300002: barre_echelle_04
+    3300004: barre_metal
+    3300006: fixation2
+    3300008: fixation3
+    3300010: planche_01
+    3300012: planche_S1
+    3300014: ramme
+    3300016: tourillon_011
+    3300018: tourillon_012
+    3300020: tourillon_03
+    3300022: tourillon_03 1
+    3300024: vis1
+    4300000: planche_01
+    4300002: planche_S1
+    4300004: ramme
+    4300006: barre_metal
+    4300008: barre_echelle_01
+    4300010: barre_echelle_04
+    4300012: fixation2
+    4300014: tourillon_03
+    4300016: tourillon_012
+    4300018: fixation3
+    4300020: tourillon_03
+    4300022: tourillon_011
+    4300024: vis1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

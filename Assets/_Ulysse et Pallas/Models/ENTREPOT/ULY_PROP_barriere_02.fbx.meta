@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: f223b3fce85b2704b8594c39db4468bd
+timeCreated: 1474273286
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group32
+    100004: group33
+    100006: group36
+    100008: group37
+    100010: pCube1
+    100012: pCylinder18
+    100014: pCylinder19
+    100016: pCylinder24
+    100018: pCylinder34
+    100020: barre
+    100022: barre1
+    100024: grillage
+    100026: pied
+    100028: pied1
+    100030: plaque_bas
+    400000: //RootNode
+    400002: group32
+    400004: group33
+    400006: group36
+    400008: group37
+    400010: pCube1
+    400012: pCylinder18
+    400014: pCylinder19
+    400016: pCylinder24
+    400018: pCylinder34
+    400020: barre
+    400022: barre1
+    400024: grillage
+    400026: pied
+    400028: pied1
+    400030: plaque_bas
+    2300000: //RootNode
+    2300002: group32
+    2300004: group33
+    2300006: group36
+    2300008: group37
+    2300010: pCube1
+    2300012: pCylinder18
+    2300014: pCylinder19
+    2300016: pCylinder24
+    2300018: pCylinder34
+    2300020: barre
+    2300022: barre1
+    2300024: grillage
+    2300026: pied
+    2300028: pied1
+    2300030: plaque_bas
+    3300000: //RootNode
+    3300002: group32
+    3300004: group33
+    3300006: group36
+    3300008: group37
+    3300010: pCube1
+    3300012: pCylinder18
+    3300014: pCylinder19
+    3300016: pCylinder24
+    3300018: pCylinder34
+    3300020: barre
+    3300022: barre1
+    3300024: grillage
+    3300026: pied
+    3300028: pied1
+    3300030: plaque_bas
+    4300000: barriere_v02
+    4300002: pCylinder19
+    4300004: pCylinder18
+    4300006: pCylinder24
+    4300008: group32
+    4300010: group33
+    4300012: group36
+    4300014: group37
+    4300016: pCube1
+    4300018: pCylinder34
+    4300020: barre1
+    4300022: pied
+    4300024: barre
+    4300026: grillage
+    4300028: plaque_bas
+    4300030: pied1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1028 @@
+fileFormatVersion: 2
+guid: 588bbe94504e24811b07648af6bb25c4
+timeCreated: 1474292006
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrieres
+    100002: fixations_sol
+    100004: fond
+    100006: mecanisme
+    100008: pCube10
+    100010: pCube11
+    100012: pCube12
+    100014: pCube13
+    100016: pCube14
+    100018: pCube15
+    100020: pCube16
+    100022: pCube18
+    100024: pCube19
+    100026: pCube2
+    100028: pCube20
+    100030: pCube21
+    100032: pCube22
+    100034: pCube23
+    100036: pCube26
+    100038: pCube27
+    100040: pCube28
+    100042: pCube29
+    100044: pCube3
+    100046: pCube30
+    100048: pCube31
+    100050: pCube32
+    100052: pCube33
+    100054: pCube4
+    100056: pCube5
+    100058: pCube6
+    100060: pCube7
+    100062: pCube8
+    100064: pCube9
+    100066: pCylinder10
+    100068: pCylinder11
+    100070: pCylinder12
+    100072: pCylinder13
+    100074: pCylinder18
+    100076: pCylinder19
+    100078: pCylinder2
+    100080: pCylinder20
+    100082: pCylinder23
+    100084: pCylinder24
+    100086: pCylinder25
+    100088: pCylinder26
+    100090: pCylinder29
+    100092: pCylinder3
+    100094: pCylinder30
+    100096: pCylinder32
+    100098: pCylinder33
+    100100: pCylinder34
+    100102: pCylinder35
+    100104: pCylinder37
+    100106: pCylinder38
+    100108: pCylinder39
+    100110: pCylinder4
+    100112: pCylinder40
+    100114: pCylinder41
+    100116: pCylinder42
+    100118: pCylinder43
+    100120: pCylinder44
+    100122: pCylinder45
+    100124: pCylinder46
+    100126: pCylinder47
+    100128: pCylinder48
+    100130: pCylinder5
+    100132: pCylinder54
+    100134: pCylinder55
+    100136: pCylinder56
+    100138: pCylinder57
+    100140: pCylinder58
+    100142: pCylinder59
+    100144: pCylinder6
+    100146: pCylinder60
+    100148: pCylinder61
+    100150: pCylinder62
+    100152: pCylinder63
+    100154: pCylinder64
+    100156: pCylinder65
+    100158: pCylinder66
+    100160: pCylinder7
+    100162: pCylinder72
+    100164: pCylinder73
+    100166: pCylinder8
+    100168: pCylinder82
+    100170: pCylinder83
+    100172: pCylinder84
+    100174: pCylinder85
+    100176: pCylinder86
+    100178: pCylinder87
+    100180: pCylinder88
+    100182: pCylinder89
+    100184: pCylinder9
+    100186: pCylinder90
+    100188: pCylinder91
+    100190: pCylinder92
+    100192: pCylinder93
+    100194: plateau
+    100196: porte_bas_D
+    100198: porte_bas_G
+    100200: //RootNode
+    100202: vis
+    100204: group2
+    400000: barrieres
+    400002: fixations_sol
+    400004: fond
+    400006: mecanisme
+    400008: pCube10
+    400010: pCube11
+    400012: pCube12
+    400014: pCube13
+    400016: pCube14
+    400018: pCube15
+    400020: pCube16
+    400022: pCube18
+    400024: pCube19
+    400026: pCube2
+    400028: pCube20
+    400030: pCube21
+    400032: pCube22
+    400034: pCube23
+    400036: pCube26
+    400038: pCube27
+    400040: pCube28
+    400042: pCube29
+    400044: pCube3
+    400046: pCube30
+    400048: pCube31
+    400050: pCube32
+    400052: pCube33
+    400054: pCube4
+    400056: pCube5
+    400058: pCube6
+    400060: pCube7
+    400062: pCube8
+    400064: pCube9
+    400066: pCylinder10
+    400068: pCylinder11
+    400070: pCylinder12
+    400072: pCylinder13
+    400074: pCylinder18
+    400076: pCylinder19
+    400078: pCylinder2
+    400080: pCylinder20
+    400082: pCylinder23
+    400084: pCylinder24
+    400086: pCylinder25
+    400088: pCylinder26
+    400090: pCylinder29
+    400092: pCylinder3
+    400094: pCylinder30
+    400096: pCylinder32
+    400098: pCylinder33
+    400100: pCylinder34
+    400102: pCylinder35
+    400104: pCylinder37
+    400106: pCylinder38
+    400108: pCylinder39
+    400110: pCylinder4
+    400112: pCylinder40
+    400114: pCylinder41
+    400116: pCylinder42
+    400118: pCylinder43
+    400120: pCylinder44
+    400122: pCylinder45
+    400124: pCylinder46
+    400126: pCylinder47
+    400128: pCylinder48
+    400130: pCylinder5
+    400132: pCylinder54
+    400134: pCylinder55
+    400136: pCylinder56
+    400138: pCylinder57
+    400140: pCylinder58
+    400142: pCylinder59
+    400144: pCylinder6
+    400146: pCylinder60
+    400148: pCylinder61
+    400150: pCylinder62
+    400152: pCylinder63
+    400154: pCylinder64
+    400156: pCylinder65
+    400158: pCylinder66
+    400160: pCylinder7
+    400162: pCylinder72
+    400164: pCylinder73
+    400166: pCylinder8
+    400168: pCylinder82
+    400170: pCylinder83
+    400172: pCylinder84
+    400174: pCylinder85
+    400176: pCylinder86
+    400178: pCylinder87
+    400180: pCylinder88
+    400182: pCylinder89
+    400184: pCylinder9
+    400186: pCylinder90
+    400188: pCylinder91
+    400190: pCylinder92
+    400192: pCylinder93
+    400194: plateau
+    400196: porte_bas_D
+    400198: porte_bas_G
+    400200: //RootNode
+    400202: vis
+    400204: group2
+    2300000: fond
+    2300002: pCube10
+    2300004: pCube11
+    2300006: pCube12
+    2300008: pCube13
+    2300010: pCube14
+    2300012: pCube15
+    2300014: pCube16
+    2300016: pCube18
+    2300018: pCube19
+    2300020: pCube2
+    2300022: pCube20
+    2300024: pCube21
+    2300026: pCube22
+    2300028: pCube23
+    2300030: pCube26
+    2300032: pCube27
+    2300034: pCube28
+    2300036: pCube29
+    2300038: pCube3
+    2300040: pCube30
+    2300042: pCube31
+    2300044: pCube32
+    2300046: pCube33
+    2300048: pCube4
+    2300050: pCube5
+    2300052: pCube6
+    2300054: pCube7
+    2300056: pCube8
+    2300058: pCube9
+    2300060: pCylinder10
+    2300062: pCylinder11
+    2300064: pCylinder12
+    2300066: pCylinder13
+    2300068: pCylinder18
+    2300070: pCylinder19
+    2300072: pCylinder2
+    2300074: pCylinder20
+    2300076: pCylinder23
+    2300078: pCylinder24
+    2300080: pCylinder25
+    2300082: pCylinder26
+    2300084: pCylinder29
+    2300086: pCylinder3
+    2300088: pCylinder30
+    2300090: pCylinder32
+    2300092: pCylinder33
+    2300094: pCylinder34
+    2300096: pCylinder35
+    2300098: pCylinder37
+    2300100: pCylinder38
+    2300102: pCylinder39
+    2300104: pCylinder4
+    2300106: pCylinder40
+    2300108: pCylinder41
+    2300110: pCylinder42
+    2300112: pCylinder43
+    2300114: pCylinder44
+    2300116: pCylinder45
+    2300118: pCylinder46
+    2300120: pCylinder47
+    2300122: pCylinder48
+    2300124: pCylinder5
+    2300126: pCylinder54
+    2300128: pCylinder55
+    2300130: pCylinder56
+    2300132: pCylinder57
+    2300134: pCylinder58
+    2300136: pCylinder59
+    2300138: pCylinder6
+    2300140: pCylinder60
+    2300142: pCylinder61
+    2300144: pCylinder62
+    2300146: pCylinder63
+    2300148: pCylinder64
+    2300150: pCylinder65
+    2300152: pCylinder66
+    2300154: pCylinder7
+    2300156: pCylinder72
+    2300158: pCylinder73
+    2300160: pCylinder8
+    2300162: pCylinder82
+    2300164: pCylinder83
+    2300166: pCylinder84
+    2300168: pCylinder85
+    2300170: pCylinder86
+    2300172: pCylinder87
+    2300174: pCylinder88
+    2300176: pCylinder89
+    2300178: pCylinder9
+    2300180: pCylinder90
+    2300182: pCylinder91
+    2300184: pCylinder92
+    2300186: pCylinder93
+    2300188: plateau
+    3300000: fond
+    3300002: pCube10
+    3300004: pCube11
+    3300006: pCube12
+    3300008: pCube13
+    3300010: pCube14
+    3300012: pCube15
+    3300014: pCube16
+    3300016: pCube18
+    3300018: pCube19
+    3300020: pCube2
+    3300022: pCube20
+    3300024: pCube21
+    3300026: pCube22
+    3300028: pCube23
+    3300030: pCube26
+    3300032: pCube27
+    3300034: pCube28
+    3300036: pCube29
+    3300038: pCube3
+    3300040: pCube30
+    3300042: pCube31
+    3300044: pCube32
+    3300046: pCube33
+    3300048: pCube4
+    3300050: pCube5
+    3300052: pCube6
+    3300054: pCube7
+    3300056: pCube8
+    3300058: pCube9
+    3300060: pCylinder10
+    3300062: pCylinder11
+    3300064: pCylinder12
+    3300066: pCylinder13
+    3300068: pCylinder18
+    3300070: pCylinder19
+    3300072: pCylinder2
+    3300074: pCylinder20
+    3300076: pCylinder23
+    3300078: pCylinder24
+    3300080: pCylinder25
+    3300082: pCylinder26
+    3300084: pCylinder29
+    3300086: pCylinder3
+    3300088: pCylinder30
+    3300090: pCylinder32
+    3300092: pCylinder33
+    3300094: pCylinder34
+    3300096: pCylinder35
+    3300098: pCylinder37
+    3300100: pCylinder38
+    3300102: pCylinder39
+    3300104: pCylinder4
+    3300106: pCylinder40
+    3300108: pCylinder41
+    3300110: pCylinder42
+    3300112: pCylinder43
+    3300114: pCylinder44
+    3300116: pCylinder45
+    3300118: pCylinder46
+    3300120: pCylinder47
+    3300122: pCylinder48
+    3300124: pCylinder5
+    3300126: pCylinder54
+    3300128: pCylinder55
+    3300130: pCylinder56
+    3300132: pCylinder57
+    3300134: pCylinder58
+    3300136: pCylinder59
+    3300138: pCylinder6
+    3300140: pCylinder60
+    3300142: pCylinder61
+    3300144: pCylinder62
+    3300146: pCylinder63
+    3300148: pCylinder64
+    3300150: pCylinder65
+    3300152: pCylinder66
+    3300154: pCylinder7
+    3300156: pCylinder72
+    3300158: pCylinder73
+    3300160: pCylinder8
+    3300162: pCylinder82
+    3300164: pCylinder83
+    3300166: pCylinder84
+    3300168: pCylinder85
+    3300170: pCylinder86
+    3300172: pCylinder87
+    3300174: pCylinder88
+    3300176: pCylinder89
+    3300178: pCylinder9
+    3300180: pCylinder90
+    3300182: pCylinder91
+    3300184: pCylinder92
+    3300186: pCylinder93
+    3300188: plateau
+    4300000: fond
+    4300002: plateau
+    4300004: pCylinder35
+    4300006: pCylinder26
+    4300008: pCylinder43
+    4300010: pCylinder42
+    4300012: pCylinder41
+    4300014: pCylinder40
+    4300016: pCylinder39
+    4300018: pCylinder38
+    4300020: pCylinder18
+    4300022: pCylinder37
+    4300024: pCylinder34
+    4300026: pCylinder33
+    4300028: pCylinder30
+    4300030: pCylinder29
+    4300032: pCylinder25
+    4300034: pCylinder24
+    4300036: pCylinder20
+    4300038: pCylinder19
+    4300040: pCylinder23
+    4300042: pCylinder32
+    4300044: pCylinder44
+    4300046: pCylinder47
+    4300048: pCylinder48
+    4300050: pCylinder54
+    4300052: pCylinder45
+    4300054: pCylinder46
+    4300056: pCylinder56
+    4300058: pCylinder57
+    4300060: pCylinder58
+    4300062: pCylinder61
+    4300064: pCylinder55
+    4300066: pCylinder59
+    4300068: pCylinder60
+    4300070: pCylinder62
+    4300072: pCylinder90
+    4300074: pCylinder82
+    4300076: pCylinder73
+    4300078: pCylinder72
+    4300080: pCylinder89
+    4300082: pCylinder65
+    4300084: pCylinder66
+    4300086: pCube32
+    4300088: pCylinder87
+    4300090: pCylinder88
+    4300092: pCylinder91
+    4300094: pCylinder93
+    4300096: pCylinder64
+    4300098: pCylinder92
+    4300100: pCylinder63
+    4300102: pCube33
+    4300104: pCylinder83
+    4300106: pCylinder84
+    4300108: pCylinder85
+    4300110: pCylinder86
+    4300112: pCube3
+    4300114: pCylinder4
+    4300116: pCube12
+    4300118: pCube11
+    4300120: pCube20
+    4300122: pCube21
+    4300124: pCube7
+    4300126: pCylinder8
+    4300128: pCube10
+    4300130: pCube23
+    4300132: pCube22
+    4300134: pCube16
+    4300136: pCube15
+    4300138: pCube2
+    4300140: pCylinder5
+    4300142: pCube14
+    4300144: pCube6
+    4300146: pCylinder9
+    4300148: pCube18
+    4300150: pCube5
+    4300152: pCube9
+    4300154: pCube19
+    4300156: pCube4
+    4300158: pCube8
+    4300160: pCube13
+    4300162: pCylinder11
+    4300164: pCylinder10
+    4300166: pCylinder13
+    4300168: pCylinder12
+    4300170: pCylinder3
+    4300172: pCylinder7
+    4300174: pCylinder2
+    4300176: pCylinder6
+    4300178: pCube31
+    4300180: pCube30
+    4300182: pCube29
+    4300184: pCube27
+    4300186: pCube26
+    4300188: pCube28
+    7400000: Up
+    7400002: Down
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Up
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: barrieres
+        weight: 1
+      - path: barrieres/pCylinder44
+        weight: 1
+      - path: barrieres/pCylinder45
+        weight: 1
+      - path: barrieres/pCylinder46
+        weight: 1
+      - path: barrieres/pCylinder47
+        weight: 1
+      - path: barrieres/pCylinder48
+        weight: 1
+      - path: barrieres/pCylinder54
+        weight: 1
+      - path: barrieres/pCylinder55
+        weight: 1
+      - path: barrieres/pCylinder56
+        weight: 1
+      - path: barrieres/pCylinder57
+        weight: 1
+      - path: barrieres/pCylinder58
+        weight: 1
+      - path: barrieres/pCylinder59
+        weight: 1
+      - path: barrieres/pCylinder60
+        weight: 1
+      - path: barrieres/pCylinder61
+        weight: 1
+      - path: barrieres/pCylinder62
+        weight: 1
+      - path: barrieres/pCylinder83
+        weight: 1
+      - path: barrieres/pCylinder84
+        weight: 1
+      - path: barrieres/pCylinder85
+        weight: 1
+      - path: barrieres/pCylinder86
+        weight: 1
+      - path: barrieres/porte_bas_D
+        weight: 1
+      - path: barrieres/porte_bas_D/pCube33
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder63
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder64
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder87
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder88
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder91
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder92
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder93
+        weight: 1
+      - path: barrieres/porte_bas_G
+        weight: 1
+      - path: barrieres/porte_bas_G/pCube32
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder65
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder66
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder72
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder73
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder82
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder89
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder90
+        weight: 1
+      - path: fixations_sol
+        weight: 1
+      - path: fixations_sol/pCube26
+        weight: 1
+      - path: fixations_sol/pCube27
+        weight: 1
+      - path: fixations_sol/pCube28
+        weight: 1
+      - path: fixations_sol/pCube29
+        weight: 1
+      - path: fixations_sol/pCube30
+        weight: 1
+      - path: fixations_sol/pCube31
+        weight: 1
+      - path: fond
+        weight: 1
+      - path: mecanisme
+        weight: 1
+      - path: mecanisme/pCube2
+        weight: 1
+      - path: mecanisme/pCube2/pCube6
+        weight: 1
+      - path: mecanisme/pCube2/pCube6/pCylinder9
+        weight: 1
+      - path: mecanisme/pCube2/pCube14
+        weight: 1
+      - path: mecanisme/pCube2/pCube18
+        weight: 1
+      - path: mecanisme/pCube2/pCylinder5
+        weight: 1
+      - path: mecanisme/pCube3
+        weight: 1
+      - path: mecanisme/pCube3/pCube7
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10/pCube16
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10/pCube22
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10/pCube23
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCylinder8
+        weight: 1
+      - path: mecanisme/pCube3/pCube11
+        weight: 1
+      - path: mecanisme/pCube3/pCube11/pCube20
+        weight: 1
+      - path: mecanisme/pCube3/pCube11/pCube21
+        weight: 1
+      - path: mecanisme/pCube3/pCube12
+        weight: 1
+      - path: mecanisme/pCube3/pCube15
+        weight: 1
+      - path: mecanisme/pCube3/pCylinder4
+        weight: 1
+      - path: mecanisme/pCube4
+        weight: 1
+      - path: mecanisme/pCube4/pCube8
+        weight: 1
+      - path: mecanisme/pCube4/pCube13
+        weight: 1
+      - path: mecanisme/pCube5
+        weight: 1
+      - path: mecanisme/pCube5/pCube9
+        weight: 1
+      - path: mecanisme/pCube5/pCube19
+        weight: 1
+      - path: mecanisme/pCylinder11
+        weight: 1
+      - path: mecanisme/pCylinder11/pCylinder10
+        weight: 1
+      - path: mecanisme/pCylinder13
+        weight: 1
+      - path: mecanisme/pCylinder13/pCylinder12
+        weight: 1
+      - path: mecanisme/vis
+        weight: 1
+      - path: mecanisme/vis/pCylinder2
+        weight: 1
+      - path: mecanisme/vis/pCylinder3
+        weight: 1
+      - path: mecanisme/vis/pCylinder6
+        weight: 1
+      - path: mecanisme/vis/pCylinder7
+        weight: 1
+      - path: plateau
+        weight: 1
+      - path: plateau/pCylinder18
+        weight: 1
+      - path: plateau/pCylinder19
+        weight: 1
+      - path: plateau/pCylinder20
+        weight: 1
+      - path: plateau/pCylinder23
+        weight: 1
+      - path: plateau/pCylinder24
+        weight: 1
+      - path: plateau/pCylinder25
+        weight: 1
+      - path: plateau/pCylinder26
+        weight: 1
+      - path: plateau/pCylinder29
+        weight: 1
+      - path: plateau/pCylinder30
+        weight: 1
+      - path: plateau/pCylinder32
+        weight: 1
+      - path: plateau/pCylinder33
+        weight: 1
+      - path: plateau/pCylinder34
+        weight: 1
+      - path: plateau/pCylinder35
+        weight: 1
+      - path: plateau/pCylinder37
+        weight: 1
+      - path: plateau/pCylinder38
+        weight: 1
+      - path: plateau/pCylinder39
+        weight: 1
+      - path: plateau/pCylinder40
+        weight: 1
+      - path: plateau/pCylinder41
+        weight: 1
+      - path: plateau/pCylinder42
+        weight: 1
+      - path: plateau/pCylinder43
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Down
+      takeName: Take 001
+      firstFrame: 59
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: barrieres
+        weight: 1
+      - path: barrieres/pCylinder44
+        weight: 1
+      - path: barrieres/pCylinder45
+        weight: 1
+      - path: barrieres/pCylinder46
+        weight: 1
+      - path: barrieres/pCylinder47
+        weight: 1
+      - path: barrieres/pCylinder48
+        weight: 1
+      - path: barrieres/pCylinder54
+        weight: 1
+      - path: barrieres/pCylinder55
+        weight: 1
+      - path: barrieres/pCylinder56
+        weight: 1
+      - path: barrieres/pCylinder57
+        weight: 1
+      - path: barrieres/pCylinder58
+        weight: 1
+      - path: barrieres/pCylinder59
+        weight: 1
+      - path: barrieres/pCylinder60
+        weight: 1
+      - path: barrieres/pCylinder61
+        weight: 1
+      - path: barrieres/pCylinder62
+        weight: 1
+      - path: barrieres/pCylinder83
+        weight: 1
+      - path: barrieres/pCylinder84
+        weight: 1
+      - path: barrieres/pCylinder85
+        weight: 1
+      - path: barrieres/pCylinder86
+        weight: 1
+      - path: barrieres/porte_bas_D
+        weight: 1
+      - path: barrieres/porte_bas_D/pCube33
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder63
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder64
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder87
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder88
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder91
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder92
+        weight: 1
+      - path: barrieres/porte_bas_D/pCylinder93
+        weight: 1
+      - path: barrieres/porte_bas_G
+        weight: 1
+      - path: barrieres/porte_bas_G/pCube32
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder65
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder66
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder72
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder73
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder82
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder89
+        weight: 1
+      - path: barrieres/porte_bas_G/pCylinder90
+        weight: 1
+      - path: fixations_sol
+        weight: 1
+      - path: fixations_sol/pCube26
+        weight: 1
+      - path: fixations_sol/pCube27
+        weight: 1
+      - path: fixations_sol/pCube28
+        weight: 1
+      - path: fixations_sol/pCube29
+        weight: 1
+      - path: fixations_sol/pCube30
+        weight: 1
+      - path: fixations_sol/pCube31
+        weight: 1
+      - path: mecanisme
+        weight: 1
+      - path: mecanisme/pCube2
+        weight: 1
+      - path: mecanisme/pCube2/pCube6
+        weight: 1
+      - path: mecanisme/pCube2/pCube6/pCylinder9
+        weight: 1
+      - path: mecanisme/pCube2/pCube14
+        weight: 1
+      - path: mecanisme/pCube2/pCube18
+        weight: 1
+      - path: mecanisme/pCube2/pCylinder5
+        weight: 1
+      - path: mecanisme/pCube3
+        weight: 1
+      - path: mecanisme/pCube3/pCube7
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10/pCube16
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10/pCube22
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCube10/pCube23
+        weight: 1
+      - path: mecanisme/pCube3/pCube7/pCylinder8
+        weight: 1
+      - path: mecanisme/pCube3/pCube11
+        weight: 1
+      - path: mecanisme/pCube3/pCube11/pCube20
+        weight: 1
+      - path: mecanisme/pCube3/pCube11/pCube21
+        weight: 1
+      - path: mecanisme/pCube3/pCube12
+        weight: 1
+      - path: mecanisme/pCube3/pCube15
+        weight: 1
+      - path: mecanisme/pCube3/pCylinder4
+        weight: 1
+      - path: mecanisme/pCube4
+        weight: 1
+      - path: mecanisme/pCube4/pCube8
+        weight: 1
+      - path: mecanisme/pCube4/pCube13
+        weight: 1
+      - path: mecanisme/pCube5
+        weight: 1
+      - path: mecanisme/pCube5/pCube9
+        weight: 1
+      - path: mecanisme/pCube5/pCube19
+        weight: 1
+      - path: mecanisme/pCylinder11
+        weight: 1
+      - path: mecanisme/pCylinder11/pCylinder10
+        weight: 1
+      - path: mecanisme/pCylinder13
+        weight: 1
+      - path: mecanisme/pCylinder13/pCylinder12
+        weight: 1
+      - path: mecanisme/vis
+        weight: 1
+      - path: mecanisme/vis/pCylinder2
+        weight: 1
+      - path: mecanisme/vis/pCylinder3
+        weight: 1
+      - path: mecanisme/vis/pCylinder6
+        weight: 1
+      - path: mecanisme/vis/pCylinder7
+        weight: 1
+      - path: plateau
+        weight: 1
+      - path: plateau/pCylinder18
+        weight: 1
+      - path: plateau/pCylinder19
+        weight: 1
+      - path: plateau/pCylinder20
+        weight: 1
+      - path: plateau/pCylinder23
+        weight: 1
+      - path: plateau/pCylinder24
+        weight: 1
+      - path: plateau/pCylinder25
+        weight: 1
+      - path: plateau/pCylinder26
+        weight: 1
+      - path: plateau/pCylinder29
+        weight: 1
+      - path: plateau/pCylinder30
+        weight: 1
+      - path: plateau/pCylinder32
+        weight: 1
+      - path: plateau/pCylinder33
+        weight: 1
+      - path: plateau/pCylinder34
+        weight: 1
+      - path: plateau/pCylinder35
+        weight: 1
+      - path: plateau/pCylinder37
+        weight: 1
+      - path: plateau/pCylinder38
+        weight: 1
+      - path: plateau/pCylinder39
+        weight: 1
+      - path: plateau/pCylinder40
+        weight: 1
+      - path: plateau/pCylinder41
+        weight: 1
+      - path: plateau/pCylinder42
+        weight: 1
+      - path: plateau/pCylinder43
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

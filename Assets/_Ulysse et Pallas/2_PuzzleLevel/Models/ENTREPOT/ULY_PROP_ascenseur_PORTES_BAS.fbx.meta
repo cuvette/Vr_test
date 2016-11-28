@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: ed856c9206dff42f3997ce3fdbe47766
+timeCreated: 1477321929
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: porte_ascenceur_247
+    100002: porte_ascenceur_247 1
+    100004: porte_ascenceur_249
+    100006: porte_ascenceur_249 1
+    100008: porte_ascenceur_251
+    100010: porte_ascenceur_251 1
+    100012: porte_ascenceur_252
+    100014: porte_ascenceur_252 1
+    100016: porte_ascenceur_253
+    100018: porte_ascenceur_253 1
+    100020: porte_ascenceur_255
+    100022: porte_ascenceur_255 1
+    100024: porte_ascenceur_256
+    100026: porte_ascenceur_256 1
+    100028: porte_ascenceur_258
+    100030: porte_ascenceur_258 1
+    100032: porte_ascenceur_265
+    100034: porte_ascenceur_265 1
+    100036: porte_ascenceur_266
+    100038: porte_ascenceur_266 1
+    100040: porte_ascenceur_267
+    100042: porte_ascenceur_267 1
+    100044: porte_ascenceur_268
+    100046: porte_ascenceur_268 1
+    100048: porte_ascenceur_269
+    100050: porte_ascenceur_269 1
+    100052: porte_ascenceur_270
+    100054: porte_ascenceur_270 1
+    100056: porte_ascenceur_271
+    100058: porte_ascenceur_271 1
+    100060: porte_ascenceur_272
+    100062: porte_ascenceur_272 1
+    100064: porte_ascenceur_273
+    100066: porte_ascenceur_273 1
+    100068: porte_ascenceur_274
+    100070: porte_ascenceur_274 1
+    100072: porte_ascenceur_275
+    100074: porte_ascenceur_275 1
+    100076: porte_ascenceur_276
+    100078: porte_ascenceur_276 1
+    100080: porte_ascenceur_277
+    100082: porte_ascenceur_277 1
+    100084: porte_ascenceur_278
+    100086: porte_ascenceur_278 1
+    100088: porte_ascenceur_279
+    100090: porte_ascenceur_279 1
+    100092: porte_ascenceur_280
+    100094: porte_ascenceur_280 1
+    100096: porte_ascenceur_281
+    100098: porte_ascenceur_281 1
+    100100: porte_ascenceur_282
+    100102: porte_ascenceur_282 1
+    100104: porte_ascenceur_283
+    100106: porte_ascenceur_283 1
+    100108: porte_ascenceur_284
+    100110: porte_ascenceur_284 1
+    100112: porte_ascenceur_285
+    100114: porte_ascenceur_285 1
+    100116: porte_ascenceur_286
+    100118: porte_ascenceur_286 1
+    100120: porte_ascenceur_287
+    100122: porte_ascenceur_287 1
+    100124: porte_ascenceur_288
+    100126: porte_ascenceur_288 1
+    100128: porte_ascenceur_289
+    100130: porte_ascenceur_289 1
+    100132: porte_ascenceur_290
+    100134: porte_ascenceur_290 1
+    100136: porte_ascenceur_291
+    100138: porte_ascenceur_291 1
+    100140: porte_ascenceur_292
+    100142: porte_ascenceur_292 1
+    100144: porte_ascenceur_293
+    100146: porte_ascenceur_293 1
+    100148: porte_ascenceur_294
+    100150: porte_ascenceur_294 1
+    100152: porte_ascenceur_295
+    100154: porte_ascenceur_295 1
+    100156: porte_ascenceur_296
+    100158: porte_ascenceur_296 1
+    100160: porte_ascenceur_297
+    100162: porte_ascenceur_297 1
+    100164: porte_ascenceur_298
+    100166: porte_ascenceur_298 1
+    100168: porte_ascenceur_299
+    100170: porte_ascenceur_299 1
+    100172: porte_ascenceur_300
+    100174: porte_ascenceur_300 1
+    100176: porte_ascenceur_301
+    100178: porte_ascenceur_301 1
+    100180: porte_ascenceur_302
+    100182: porte_ascenceur_302 1
+    100184: porte_ascenceur_303
+    100186: porte_ascenceur_303 1
+    100188: porte_ascenceur_304
+    100190: porte_ascenceur_304 1
+    100192: porte_ascenceur_305
+    100194: porte_ascenceur_305 1
+    100196: porte_ascenceur_306
+    100198: porte_ascenceur_306 1
+    100200: porte_ascenceur_307
+    100202: porte_ascenceur_307 1
+    100204: porte_ascenceur_308
+    100206: porte_ascenceur_308 1
+    100208: porte_ascenceur_309
+    100210: porte_ascenceur_309 1
+    100212: porte_D
+    100214: porte_G
+    100216: //RootNode
+    400000: porte_ascenceur_247
+    400002: porte_ascenceur_247 1
+    400004: porte_ascenceur_249
+    400006: porte_ascenceur_249 1
+    400008: porte_ascenceur_251
+    400010: porte_ascenceur_251 1
+    400012: porte_ascenceur_252
+    400014: porte_ascenceur_252 1
+    400016: porte_ascenceur_253
+    400018: porte_ascenceur_253 1
+    400020: porte_ascenceur_255
+    400022: porte_ascenceur_255 1
+    400024: porte_ascenceur_256
+    400026: porte_ascenceur_256 1
+    400028: porte_ascenceur_258
+    400030: porte_ascenceur_258 1
+    400032: porte_ascenceur_265
+    400034: porte_ascenceur_265 1
+    400036: porte_ascenceur_266
+    400038: porte_ascenceur_266 1
+    400040: porte_ascenceur_267
+    400042: porte_ascenceur_267 1
+    400044: porte_ascenceur_268
+    400046: porte_ascenceur_268 1
+    400048: porte_ascenceur_269
+    400050: porte_ascenceur_269 1
+    400052: porte_ascenceur_270
+    400054: porte_ascenceur_270 1
+    400056: porte_ascenceur_271
+    400058: porte_ascenceur_271 1
+    400060: porte_ascenceur_272
+    400062: porte_ascenceur_272 1
+    400064: porte_ascenceur_273
+    400066: porte_ascenceur_273 1
+    400068: porte_ascenceur_274
+    400070: porte_ascenceur_274 1
+    400072: porte_ascenceur_275
+    400074: porte_ascenceur_275 1
+    400076: porte_ascenceur_276
+    400078: porte_ascenceur_276 1
+    400080: porte_ascenceur_277
+    400082: porte_ascenceur_277 1
+    400084: porte_ascenceur_278
+    400086: porte_ascenceur_278 1
+    400088: porte_ascenceur_279
+    400090: porte_ascenceur_279 1
+    400092: porte_ascenceur_280
+    400094: porte_ascenceur_280 1
+    400096: porte_ascenceur_281
+    400098: porte_ascenceur_281 1
+    400100: porte_ascenceur_282
+    400102: porte_ascenceur_282 1
+    400104: porte_ascenceur_283
+    400106: porte_ascenceur_283 1
+    400108: porte_ascenceur_284
+    400110: porte_ascenceur_284 1
+    400112: porte_ascenceur_285
+    400114: porte_ascenceur_285 1
+    400116: porte_ascenceur_286
+    400118: porte_ascenceur_286 1
+    400120: porte_ascenceur_287
+    400122: porte_ascenceur_287 1
+    400124: porte_ascenceur_288
+    400126: porte_ascenceur_288 1
+    400128: porte_ascenceur_289
+    400130: porte_ascenceur_289 1
+    400132: porte_ascenceur_290
+    400134: porte_ascenceur_290 1
+    400136: porte_ascenceur_291
+    400138: porte_ascenceur_291 1
+    400140: porte_ascenceur_292
+    400142: porte_ascenceur_292 1
+    400144: porte_ascenceur_293
+    400146: porte_ascenceur_293 1
+    400148: porte_ascenceur_294
+    400150: porte_ascenceur_294 1
+    400152: porte_ascenceur_295
+    400154: porte_ascenceur_295 1
+    400156: porte_ascenceur_296
+    400158: porte_ascenceur_296 1
+    400160: porte_ascenceur_297
+    400162: porte_ascenceur_297 1
+    400164: porte_ascenceur_298
+    400166: porte_ascenceur_298 1
+    400168: porte_ascenceur_299
+    400170: porte_ascenceur_299 1
+    400172: porte_ascenceur_300
+    400174: porte_ascenceur_300 1
+    400176: porte_ascenceur_301
+    400178: porte_ascenceur_301 1
+    400180: porte_ascenceur_302
+    400182: porte_ascenceur_302 1
+    400184: porte_ascenceur_303
+    400186: porte_ascenceur_303 1
+    400188: porte_ascenceur_304
+    400190: porte_ascenceur_304 1
+    400192: porte_ascenceur_305
+    400194: porte_ascenceur_305 1
+    400196: porte_ascenceur_306
+    400198: porte_ascenceur_306 1
+    400200: porte_ascenceur_307
+    400202: porte_ascenceur_307 1
+    400204: porte_ascenceur_308
+    400206: porte_ascenceur_308 1
+    400208: porte_ascenceur_309
+    400210: porte_ascenceur_309 1
+    400212: porte_D
+    400214: porte_G
+    400216: //RootNode
+    2300000: porte_ascenceur_247
+    2300002: porte_ascenceur_247 1
+    2300004: porte_ascenceur_249
+    2300006: porte_ascenceur_249 1
+    2300008: porte_ascenceur_251
+    2300010: porte_ascenceur_251 1
+    2300012: porte_ascenceur_252
+    2300014: porte_ascenceur_252 1
+    2300016: porte_ascenceur_253
+    2300018: porte_ascenceur_253 1
+    2300020: porte_ascenceur_255
+    2300022: porte_ascenceur_255 1
+    2300024: porte_ascenceur_256
+    2300026: porte_ascenceur_256 1
+    2300028: porte_ascenceur_258
+    2300030: porte_ascenceur_258 1
+    2300032: porte_ascenceur_265
+    2300034: porte_ascenceur_265 1
+    2300036: porte_ascenceur_266
+    2300038: porte_ascenceur_266 1
+    2300040: porte_ascenceur_267
+    2300042: porte_ascenceur_267 1
+    2300044: porte_ascenceur_268
+    2300046: porte_ascenceur_268 1
+    2300048: porte_ascenceur_269
+    2300050: porte_ascenceur_269 1
+    2300052: porte_ascenceur_270
+    2300054: porte_ascenceur_270 1
+    2300056: porte_ascenceur_271
+    2300058: porte_ascenceur_271 1
+    2300060: porte_ascenceur_272
+    2300062: porte_ascenceur_272 1
+    2300064: porte_ascenceur_273
+    2300066: porte_ascenceur_273 1
+    2300068: porte_ascenceur_274
+    2300070: porte_ascenceur_274 1
+    2300072: porte_ascenceur_275
+    2300074: porte_ascenceur_275 1
+    2300076: porte_ascenceur_276
+    2300078: porte_ascenceur_276 1
+    2300080: porte_ascenceur_277
+    2300082: porte_ascenceur_277 1
+    2300084: porte_ascenceur_278
+    2300086: porte_ascenceur_278 1
+    2300088: porte_ascenceur_279
+    2300090: porte_ascenceur_279 1
+    2300092: porte_ascenceur_280
+    2300094: porte_ascenceur_280 1
+    2300096: porte_ascenceur_281
+    2300098: porte_ascenceur_281 1
+    2300100: porte_ascenceur_282
+    2300102: porte_ascenceur_282 1
+    2300104: porte_ascenceur_283
+    2300106: porte_ascenceur_283 1
+    2300108: porte_ascenceur_284
+    2300110: porte_ascenceur_284 1
+    2300112: porte_ascenceur_285
+    2300114: porte_ascenceur_285 1
+    2300116: porte_ascenceur_286
+    2300118: porte_ascenceur_286 1
+    2300120: porte_ascenceur_287
+    2300122: porte_ascenceur_287 1
+    2300124: porte_ascenceur_288
+    2300126: porte_ascenceur_288 1
+    2300128: porte_ascenceur_289
+    2300130: porte_ascenceur_289 1
+    2300132: porte_ascenceur_290
+    2300134: porte_ascenceur_290 1
+    2300136: porte_ascenceur_291
+    2300138: porte_ascenceur_291 1
+    2300140: porte_ascenceur_292
+    2300142: porte_ascenceur_292 1
+    2300144: porte_ascenceur_293
+    2300146: porte_ascenceur_293 1
+    2300148: porte_ascenceur_294
+    2300150: porte_ascenceur_294 1
+    2300152: porte_ascenceur_295
+    2300154: porte_ascenceur_295 1
+    2300156: porte_ascenceur_296
+    2300158: porte_ascenceur_296 1
+    2300160: porte_ascenceur_297
+    2300162: porte_ascenceur_297 1
+    2300164: porte_ascenceur_298
+    2300166: porte_ascenceur_298 1
+    2300168: porte_ascenceur_299
+    2300170: porte_ascenceur_299 1
+    2300172: porte_ascenceur_300
+    2300174: porte_ascenceur_300 1
+    2300176: porte_ascenceur_301
+    2300178: porte_ascenceur_301 1
+    2300180: porte_ascenceur_302
+    2300182: porte_ascenceur_302 1
+    2300184: porte_ascenceur_303
+    2300186: porte_ascenceur_303 1
+    2300188: porte_ascenceur_304
+    2300190: porte_ascenceur_304 1
+    2300192: porte_ascenceur_305
+    2300194: porte_ascenceur_305 1
+    2300196: porte_ascenceur_306
+    2300198: porte_ascenceur_306 1
+    2300200: porte_ascenceur_307
+    2300202: porte_ascenceur_307 1
+    2300204: porte_ascenceur_308
+    2300206: porte_ascenceur_308 1
+    2300208: porte_ascenceur_309
+    2300210: porte_ascenceur_309 1
+    3300000: porte_ascenceur_247
+    3300002: porte_ascenceur_247 1
+    3300004: porte_ascenceur_249
+    3300006: porte_ascenceur_249 1
+    3300008: porte_ascenceur_251
+    3300010: porte_ascenceur_251 1
+    3300012: porte_ascenceur_252
+    3300014: porte_ascenceur_252 1
+    3300016: porte_ascenceur_253
+    3300018: porte_ascenceur_253 1
+    3300020: porte_ascenceur_255
+    3300022: porte_ascenceur_255 1
+    3300024: porte_ascenceur_256
+    3300026: porte_ascenceur_256 1
+    3300028: porte_ascenceur_258
+    3300030: porte_ascenceur_258 1
+    3300032: porte_ascenceur_265
+    3300034: porte_ascenceur_265 1
+    3300036: porte_ascenceur_266
+    3300038: porte_ascenceur_266 1
+    3300040: porte_ascenceur_267
+    3300042: porte_ascenceur_267 1
+    3300044: porte_ascenceur_268
+    3300046: porte_ascenceur_268 1
+    3300048: porte_ascenceur_269
+    3300050: porte_ascenceur_269 1
+    3300052: porte_ascenceur_270
+    3300054: porte_ascenceur_270 1
+    3300056: porte_ascenceur_271
+    3300058: porte_ascenceur_271 1
+    3300060: porte_ascenceur_272
+    3300062: porte_ascenceur_272 1
+    3300064: porte_ascenceur_273
+    3300066: porte_ascenceur_273 1
+    3300068: porte_ascenceur_274
+    3300070: porte_ascenceur_274 1
+    3300072: porte_ascenceur_275
+    3300074: porte_ascenceur_275 1
+    3300076: porte_ascenceur_276
+    3300078: porte_ascenceur_276 1
+    3300080: porte_ascenceur_277
+    3300082: porte_ascenceur_277 1
+    3300084: porte_ascenceur_278
+    3300086: porte_ascenceur_278 1
+    3300088: porte_ascenceur_279
+    3300090: porte_ascenceur_279 1
+    3300092: porte_ascenceur_280
+    3300094: porte_ascenceur_280 1
+    3300096: porte_ascenceur_281
+    3300098: porte_ascenceur_281 1
+    3300100: porte_ascenceur_282
+    3300102: porte_ascenceur_282 1
+    3300104: porte_ascenceur_283
+    3300106: porte_ascenceur_283 1
+    3300108: porte_ascenceur_284
+    3300110: porte_ascenceur_284 1
+    3300112: porte_ascenceur_285
+    3300114: porte_ascenceur_285 1
+    3300116: porte_ascenceur_286
+    3300118: porte_ascenceur_286 1
+    3300120: porte_ascenceur_287
+    3300122: porte_ascenceur_287 1
+    3300124: porte_ascenceur_288
+    3300126: porte_ascenceur_288 1
+    3300128: porte_ascenceur_289
+    3300130: porte_ascenceur_289 1
+    3300132: porte_ascenceur_290
+    3300134: porte_ascenceur_290 1
+    3300136: porte_ascenceur_291
+    3300138: porte_ascenceur_291 1
+    3300140: porte_ascenceur_292
+    3300142: porte_ascenceur_292 1
+    3300144: porte_ascenceur_293
+    3300146: porte_ascenceur_293 1
+    3300148: porte_ascenceur_294
+    3300150: porte_ascenceur_294 1
+    3300152: porte_ascenceur_295
+    3300154: porte_ascenceur_295 1
+    3300156: porte_ascenceur_296
+    3300158: porte_ascenceur_296 1
+    3300160: porte_ascenceur_297
+    3300162: porte_ascenceur_297 1
+    3300164: porte_ascenceur_298
+    3300166: porte_ascenceur_298 1
+    3300168: porte_ascenceur_299
+    3300170: porte_ascenceur_299 1
+    3300172: porte_ascenceur_300
+    3300174: porte_ascenceur_300 1
+    3300176: porte_ascenceur_301
+    3300178: porte_ascenceur_301 1
+    3300180: porte_ascenceur_302
+    3300182: porte_ascenceur_302 1
+    3300184: porte_ascenceur_303
+    3300186: porte_ascenceur_303 1
+    3300188: porte_ascenceur_304
+    3300190: porte_ascenceur_304 1
+    3300192: porte_ascenceur_305
+    3300194: porte_ascenceur_305 1
+    3300196: porte_ascenceur_306
+    3300198: porte_ascenceur_306 1
+    3300200: porte_ascenceur_307
+    3300202: porte_ascenceur_307 1
+    3300204: porte_ascenceur_308
+    3300206: porte_ascenceur_308 1
+    3300208: porte_ascenceur_309
+    3300210: porte_ascenceur_309 1
+    4300000: porte_ascenceur_247
+    4300002: porte_ascenceur_279
+    4300004: porte_ascenceur_277
+    4300006: porte_ascenceur_295
+    4300008: porte_ascenceur_297
+    4300010: porte_ascenceur_280
+    4300012: porte_ascenceur_282
+    4300014: porte_ascenceur_251
+    4300016: porte_ascenceur_271
+    4300018: porte_ascenceur_272
+    4300020: porte_ascenceur_298
+    4300022: porte_ascenceur_300
+    4300024: porte_ascenceur_283
+    4300026: porte_ascenceur_285
+    4300028: porte_ascenceur_252
+    4300030: porte_ascenceur_269
+    4300032: porte_ascenceur_270
+    4300034: porte_ascenceur_301
+    4300036: porte_ascenceur_302
+    4300038: porte_ascenceur_286
+    4300040: porte_ascenceur_287
+    4300042: porte_ascenceur_253
+    4300044: porte_ascenceur_267
+    4300046: porte_ascenceur_268
+    4300048: porte_ascenceur_303
+    4300050: porte_ascenceur_304
+    4300052: porte_ascenceur_288
+    4300054: porte_ascenceur_289
+    4300056: porte_ascenceur_255
+    4300058: porte_ascenceur_265
+    4300060: porte_ascenceur_266
+    4300062: porte_ascenceur_278
+    4300064: porte_ascenceur_296
+    4300066: porte_ascenceur_299
+    4300068: porte_ascenceur_305
+    4300070: porte_ascenceur_284
+    4300072: porte_ascenceur_290
+    4300074: porte_ascenceur_281
+    4300076: porte_ascenceur_256
+    4300078: porte_ascenceur_273
+    4300080: porte_ascenceur_274
+    4300082: porte_ascenceur_306
+    4300084: porte_ascenceur_307
+    4300086: porte_ascenceur_291
+    4300088: porte_ascenceur_292
+    4300090: porte_ascenceur_258
+    4300092: porte_ascenceur_275
+    4300094: porte_ascenceur_276
+    4300096: porte_ascenceur_308
+    4300098: porte_ascenceur_309
+    4300100: porte_ascenceur_293
+    4300102: porte_ascenceur_294
+    4300104: porte_ascenceur_249
+    4300106: porte_ascenceur_247
+    4300108: porte_ascenceur_279
+    4300110: porte_ascenceur_277
+    4300112: porte_ascenceur_295
+    4300114: porte_ascenceur_297
+    4300116: porte_ascenceur_280
+    4300118: porte_ascenceur_282
+    4300120: porte_ascenceur_251
+    4300122: porte_ascenceur_271
+    4300124: porte_ascenceur_272
+    4300126: porte_ascenceur_298
+    4300128: porte_ascenceur_300
+    4300130: porte_ascenceur_283
+    4300132: porte_ascenceur_285
+    4300134: porte_ascenceur_252
+    4300136: porte_ascenceur_269
+    4300138: porte_ascenceur_270
+    4300140: porte_ascenceur_301
+    4300142: porte_ascenceur_302
+    4300144: porte_ascenceur_286
+    4300146: porte_ascenceur_287
+    4300148: porte_ascenceur_253
+    4300150: porte_ascenceur_267
+    4300152: porte_ascenceur_268
+    4300154: porte_ascenceur_303
+    4300156: porte_ascenceur_304
+    4300158: porte_ascenceur_288
+    4300160: porte_ascenceur_289
+    4300162: porte_ascenceur_255
+    4300164: porte_ascenceur_265
+    4300166: porte_ascenceur_266
+    4300168: porte_ascenceur_278
+    4300170: porte_ascenceur_296
+    4300172: porte_ascenceur_299
+    4300174: porte_ascenceur_305
+    4300176: porte_ascenceur_284
+    4300178: porte_ascenceur_290
+    4300180: porte_ascenceur_281
+    4300182: porte_ascenceur_256
+    4300184: porte_ascenceur_273
+    4300186: porte_ascenceur_274
+    4300188: porte_ascenceur_306
+    4300190: porte_ascenceur_307
+    4300192: porte_ascenceur_291
+    4300194: porte_ascenceur_292
+    4300196: porte_ascenceur_258
+    4300198: porte_ascenceur_275
+    4300200: porte_ascenceur_276
+    4300202: porte_ascenceur_308
+    4300204: porte_ascenceur_309
+    4300206: porte_ascenceur_293
+    4300208: porte_ascenceur_294
+    4300210: porte_ascenceur_249
+    7400000: open
+    7400002: close
+    7400004: locked
+    7400006: still
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: porte_D
+        weight: 1
+      - path: porte_D/porte_ascenceur_247
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_277
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_279
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_280
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_282
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_295
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_297
+        weight: 1
+      - path: porte_D/porte_ascenceur_249
+        weight: 1
+      - path: porte_D/porte_ascenceur_251
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_271
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_272
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_283
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_285
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_298
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_300
+        weight: 1
+      - path: porte_D/porte_ascenceur_252
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_269
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_270
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_286
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_287
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_301
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_302
+        weight: 1
+      - path: porte_D/porte_ascenceur_253
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_267
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_268
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_288
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_289
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_303
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_304
+        weight: 1
+      - path: porte_D/porte_ascenceur_255
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_265
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_266
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_278
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_281
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_284
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_290
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_296
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_299
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_305
+        weight: 1
+      - path: porte_D/porte_ascenceur_256
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_273
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_274
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_291
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_292
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_306
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_307
+        weight: 1
+      - path: porte_D/porte_ascenceur_258
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_275
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_276
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_293
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_294
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_308
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_309
+        weight: 1
+      - path: porte_G
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_277 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_279 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_280 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_282 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_295 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_297 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_249 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_271 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_272 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_283 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_285 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_298 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_300 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_269 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_270 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_286 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_287 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_301 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_302 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_267 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_268 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_288 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_289 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_303 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_304 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_265 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_266 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_278 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_281 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_284 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_290 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_296 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_299 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_305 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_273 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_274 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_291 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_292 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_306 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_307 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_275 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_276 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_293 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_294 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_308 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_309 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: close
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: porte_D
+        weight: 1
+      - path: porte_D/porte_ascenceur_247
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_277
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_279
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_280
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_282
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_295
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_297
+        weight: 1
+      - path: porte_D/porte_ascenceur_249
+        weight: 1
+      - path: porte_D/porte_ascenceur_251
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_271
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_272
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_283
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_285
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_298
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_300
+        weight: 1
+      - path: porte_D/porte_ascenceur_252
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_269
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_270
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_286
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_287
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_301
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_302
+        weight: 1
+      - path: porte_D/porte_ascenceur_253
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_267
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_268
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_288
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_289
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_303
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_304
+        weight: 1
+      - path: porte_D/porte_ascenceur_255
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_265
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_266
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_278
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_281
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_284
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_290
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_296
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_299
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_305
+        weight: 1
+      - path: porte_D/porte_ascenceur_256
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_273
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_274
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_291
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_292
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_306
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_307
+        weight: 1
+      - path: porte_D/porte_ascenceur_258
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_275
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_276
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_293
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_294
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_308
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_309
+        weight: 1
+      - path: porte_G
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_277 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_279 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_280 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_282 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_295 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_297 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_249 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_271 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_272 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_283 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_285 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_298 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_300 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_269 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_270 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_286 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_287 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_301 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_302 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_267 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_268 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_288 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_289 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_303 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_304 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_265 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_266 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_278 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_281 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_284 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_290 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_296 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_299 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_305 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_273 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_274 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_291 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_292 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_306 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_307 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_275 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_276 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_293 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_294 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_308 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_309 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: locked
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: porte_D
+        weight: 1
+      - path: porte_D/porte_ascenceur_247
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_277
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_279
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_280
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_282
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_295
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_297
+        weight: 1
+      - path: porte_D/porte_ascenceur_249
+        weight: 1
+      - path: porte_D/porte_ascenceur_251
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_271
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_272
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_283
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_285
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_298
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_300
+        weight: 1
+      - path: porte_D/porte_ascenceur_252
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_269
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_270
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_286
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_287
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_301
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_302
+        weight: 1
+      - path: porte_D/porte_ascenceur_253
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_267
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_268
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_288
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_289
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_303
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_304
+        weight: 1
+      - path: porte_D/porte_ascenceur_255
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_265
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_266
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_278
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_281
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_284
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_290
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_296
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_299
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_305
+        weight: 1
+      - path: porte_D/porte_ascenceur_256
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_273
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_274
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_291
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_292
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_306
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_307
+        weight: 1
+      - path: porte_D/porte_ascenceur_258
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_275
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_276
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_293
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_294
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_308
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_309
+        weight: 1
+      - path: porte_G
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_277 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_279 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_280 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_282 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_295 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_297 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_249 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_271 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_272 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_283 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_285 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_298 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_300 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_269 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_270 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_286 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_287 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_301 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_302 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_267 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_268 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_288 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_289 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_303 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_304 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_265 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_266 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_278 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_281 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_284 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_290 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_296 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_299 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_305 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_273 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_274 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_291 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_292 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_306 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_307 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_275 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_276 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_293 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_294 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_308 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_309 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: still
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: porte_D
+        weight: 1
+      - path: porte_D/porte_ascenceur_247
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_277
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_279
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_280
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_282
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_295
+        weight: 1
+      - path: porte_D/porte_ascenceur_247/porte_ascenceur_297
+        weight: 1
+      - path: porte_D/porte_ascenceur_249
+        weight: 1
+      - path: porte_D/porte_ascenceur_251
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_271
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_272
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_283
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_285
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_298
+        weight: 1
+      - path: porte_D/porte_ascenceur_251/porte_ascenceur_300
+        weight: 1
+      - path: porte_D/porte_ascenceur_252
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_269
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_270
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_286
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_287
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_301
+        weight: 1
+      - path: porte_D/porte_ascenceur_252/porte_ascenceur_302
+        weight: 1
+      - path: porte_D/porte_ascenceur_253
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_267
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_268
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_288
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_289
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_303
+        weight: 1
+      - path: porte_D/porte_ascenceur_253/porte_ascenceur_304
+        weight: 1
+      - path: porte_D/porte_ascenceur_255
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_265
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_266
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_278
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_281
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_284
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_290
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_296
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_299
+        weight: 1
+      - path: porte_D/porte_ascenceur_255/porte_ascenceur_305
+        weight: 1
+      - path: porte_D/porte_ascenceur_256
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_273
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_274
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_291
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_292
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_306
+        weight: 1
+      - path: porte_D/porte_ascenceur_256/porte_ascenceur_307
+        weight: 1
+      - path: porte_D/porte_ascenceur_258
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_275
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_276
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_293
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_294
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_308
+        weight: 1
+      - path: porte_D/porte_ascenceur_258/porte_ascenceur_309
+        weight: 1
+      - path: porte_G
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_277 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_279 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_280 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_282 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_295 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_247 1/porte_ascenceur_297 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_249 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_271 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_272 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_283 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_285 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_298 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_251 1/porte_ascenceur_300 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_269 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_270 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_286 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_287 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_301 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_252 1/porte_ascenceur_302 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_267 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_268 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_288 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_289 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_303 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_253 1/porte_ascenceur_304 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_265 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_266 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_278 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_281 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_284 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_290 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_296 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_299 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_255 1/porte_ascenceur_305 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_273 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_274 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_291 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_292 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_306 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_256 1/porte_ascenceur_307 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_275 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_276 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_293 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_294 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_308 1
+        weight: 1
+      - path: porte_G/porte_ascenceur_258 1/porte_ascenceur_309 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

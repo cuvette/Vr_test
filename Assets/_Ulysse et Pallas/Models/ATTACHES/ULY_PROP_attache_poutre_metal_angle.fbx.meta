@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: c3f05ac2f01920b49abe32ef0032d5f0
+timeCreated: 1469799663
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: angle
+    100002: angle 1
+    100004: angle 2
+    100006: attache_poutre_metal_angle1
+    100008: rivet
+    100010: rivet 1
+    100012: rivet 2
+    100014: rivet1
+    100016: rivet1 1
+    100018: rivet1 2
+    100020: rivet2
+    100022: rivet2 1
+    100024: rivet2 2
+    100026: rivet3
+    100028: rivet3 1
+    100030: rivet3 2
+    100032: rivet4
+    100034: rivet4 1
+    100036: rivet4 2
+    100038: rivet5
+    100040: rivet5 1
+    100042: rivet5 2
+    100044: rivets
+    100046: rivets 1
+    100048: rivets 2
+    100050: //RootNode
+    400000: angle
+    400002: angle 1
+    400004: angle 2
+    400006: attache_poutre_metal_angle1
+    400008: rivet
+    400010: rivet 1
+    400012: rivet 2
+    400014: rivet1
+    400016: rivet1 1
+    400018: rivet1 2
+    400020: rivet2
+    400022: rivet2 1
+    400024: rivet2 2
+    400026: rivet3
+    400028: rivet3 1
+    400030: rivet3 2
+    400032: rivet4
+    400034: rivet4 1
+    400036: rivet4 2
+    400038: rivet5
+    400040: rivet5 1
+    400042: rivet5 2
+    400044: rivets
+    400046: rivets 1
+    400048: rivets 2
+    400050: //RootNode
+    2300000: angle
+    2300002: angle 1
+    2300004: angle 2
+    2300006: rivet
+    2300008: rivet 1
+    2300010: rivet 2
+    2300012: rivet1
+    2300014: rivet1 1
+    2300016: rivet1 2
+    2300018: rivet2
+    2300020: rivet2 1
+    2300022: rivet2 2
+    2300024: rivet3
+    2300026: rivet3 1
+    2300028: rivet3 2
+    2300030: rivet4
+    2300032: rivet4 1
+    2300034: rivet4 2
+    2300036: rivet5
+    2300038: rivet5 1
+    2300040: rivet5 2
+    2300042: //RootNode
+    3300000: angle
+    3300002: angle 1
+    3300004: angle 2
+    3300006: rivet
+    3300008: rivet 1
+    3300010: rivet 2
+    3300012: rivet1
+    3300014: rivet1 1
+    3300016: rivet1 2
+    3300018: rivet2
+    3300020: rivet2 1
+    3300022: rivet2 2
+    3300024: rivet3
+    3300026: rivet3 1
+    3300028: rivet3 2
+    3300030: rivet4
+    3300032: rivet4 1
+    3300034: rivet4 2
+    3300036: rivet5
+    3300038: rivet5 1
+    3300040: rivet5 2
+    3300042: //RootNode
+    4300000: angle
+    4300002: rivet3
+    4300004: ULY_MAT_attache_metal_angle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

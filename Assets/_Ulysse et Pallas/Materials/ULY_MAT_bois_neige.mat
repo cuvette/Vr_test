@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ULY_MAT_bois_neige
+  m_Shader: {fileID: 4800000, guid: 3f5580210fe3fb5459727ed378d5867f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 6deb759c8520e1e40bda39e64f4d2213, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BumpMap2
+      second:
+        m_Texture: {fileID: 2800000, guid: 7d6c84d876fdbfe4db19445b135cb175, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailAlbedoMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailNormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Diffuse
+      second:
+        m_Texture: {fileID: 2800000, guid: b66bceaf0cc0ace4e9bdc92f14bba709, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EmissionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _GlossTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _GlossTexDansalphadupsd
+      second:
+        m_Texture: {fileID: 2800000, guid: 8800462e64284ef43b87decd2203e539, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Illumination
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 60ad3f050a10e804b81444bf8cf851d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MetallicGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Normals
+      second:
+        m_Texture: {fileID: 2800000, guid: bbab0a6f7bae9cf42bf057d8ee2755f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OcclusionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ParallaxMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SecondaryTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 8800462e64284ef43b87decd2203e539, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ShadingGradient
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ShadingGradient_copy
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _mapincandescence
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6986
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7988
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BulgeScale
+      second: 0.2
+    - first:
+        name: _BulgeShape
+      second: 5
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Desaturation
+      second: 0.566
+    - first:
+        name: _DetailNormalMapScale
+      second: 1
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _Flattener
+      second: 0
+    - first:
+        name: _FresnelExp
+      second: 4.99
+    - first:
+        name: _FresnelMin
+      second: 0
+    - first:
+        name: _GeneralIllum
+      second: 0
+    - first:
+        name: _Gloss
+      second: 1.82
+    - first:
+        name: _Gloss_copy
+      second: 0.537
+    - first:
+        name: _GlossfromAlpha
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.356
+    - first:
+        name: _GlossonTop
+      second: 1
+    - first:
+        name: _GlowIntensity
+      second: 1.2
+    - first:
+        name: _Illum
+      second: 0
+    - first:
+        name: _IlluminationFactor
+      second: 0
+    - first:
+        name: _Incandescence
+      second: 0
+    - first:
+        name: _IntensitglossText
+      second: 1.24
+    - first:
+        name: _MainGloss
+      second: 0
+    - first:
+        name: _MainMetallic
+      second: 0
+    - first:
+        name: _Metallic
+      second: 0
+    - first:
+        name: _Metallic_copy
+      second: 0
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _OcclusionStrength
+      second: 1
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _Saturation
+      second: 0.747
+    - first:
+        name: _SpecularFactor
+      second: 0
+    - first:
+        name: _SpecularFactor_copy
+      second: 0
+    - first:
+        name: _SpecularFromAlpha
+      second: 10
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _TopGloss
+      second: 9.77
+    - first:
+        name: _TopMetallic
+      second: 0
+    - first:
+        name: _UVSec
+      second: 0
+    - first:
+        name: _ZWrite
+      second: 1
+    - first:
+        name: _fresnelMax
+      second: -1
+    - first:
+        name: _intensitmapspec
+      second: 0
+    - first:
+        name: _node_1608
+      second: 0
+    - first:
+        name: _node_1608_copy
+      second: -0.5
+    - first:
+        name: _node_2206
+      second: 0
+    - first:
+        name: _node_4707
+      second: 0
+    - first:
+        name: _node_4856
+      second: 0
+    - first:
+        name: _node_6144
+      second: 0
+    - first:
+        name: _node_7263
+      second: 0
+    - first:
+        name: _node_7926
+      second: 0
+    - first:
+        name: _node_7981
+      second: 1
+    - first:
+        name: _node_8767
+      second: 0
+    - first:
+        name: _t
+      second: 1
+    m_Colors:
+    - first:
+        name: _BottomColor
+      second: {r: 0.33823532, g: 0.2980999, b: 0.22631922, a: 1}
+    - first:
+        name: _BottomColor_copy
+      second: {r: 0.4117647, g: 0.04238753, b: 0.04238753, a: 1}
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _EmissionColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _FresnelMax
+      second: {r: 0.89705884, g: 0.7255623, b: 0.7255623, a: 1}
+    - first:
+        name: _FresnelMin
+      second: {r: 0.49264705, g: 0.49264705, b: 0.49264705, a: 1}
+    - first:
+        name: _GlowColor
+      second: {r: 1, g: 0.2391481, b: 0.1102941, a: 1}
+    - first:
+        name: _NormalMapMultiplier
+      second: {r: 1, g: 1, b: 6.2, a: 0}
+    - first:
+        name: _NormalMapMultiplier_copy
+      second: {r: 1, g: 1, b: 1, a: 0}
+    - first:
+        name: _Peinture
+      second: {r: 0.44117647, g: 0.384799, b: 0.32439446, a: 1}
+    - first:
+        name: _SecondaryNormalMapMultiplier
+      second: {r: 1, g: 1, b: 47.24, a: 0}
+    - first:
+        name: _SpecColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _TeinteGlobaleprov
+      second: {r: 0.83708537, g: 0.8602941, b: 0.6199178, a: 1}
+    - first:
+        name: _TopColor
+      second: {r: 0.898843, g: 0.96484905, b: 0.97794116, a: 1}
+    - first:
+        name: _node_3008
+      second: {r: 0.7941176, g: 0.7941176, b: 0.7941176, a: 1}
+    - first:
+        name: _node_3961
+      second: {r: 0, g: 0, b: 1, a: 0}

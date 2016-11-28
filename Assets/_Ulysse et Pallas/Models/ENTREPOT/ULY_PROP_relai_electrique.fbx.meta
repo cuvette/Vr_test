@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: ac86ed4504f41c044ac6bff51f75a3a5
+timeCreated: 1474386621
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: boite
+    100002: BOITIER
+    100004: cable
+    100006: connecteur_01
+    100008: connecteur_02
+    100010: connecteur_03
+    100012: connecteur_04
+    100014: CONNECTEURS_CABLES
+    100016: loupiotte_rouge
+    100018: loupiotte_verte
+    100020: LOUPIOTTES
+    100022: PLAQUE1
+    100024: PLAQUE1_pCube15
+    100026: PLAQUE1_pCube16
+    100028: relai
+    100030: tuyau_D
+    100032: tuyau_G
+    100034: TUYAUX
+    100036: //RootNode
+    100038: VIS
+    100040: vis_01
+    100042: vis_02
+    100044: vis_03
+    100046: vis_04
+    100048: vis_05
+    100050: vis_06
+    100052: vis_07
+    100054: vis_08
+    400000: boite
+    400002: BOITIER
+    400004: cable
+    400006: connecteur_01
+    400008: connecteur_02
+    400010: connecteur_03
+    400012: connecteur_04
+    400014: CONNECTEURS_CABLES
+    400016: loupiotte_rouge
+    400018: loupiotte_verte
+    400020: LOUPIOTTES
+    400022: PLAQUE1
+    400024: PLAQUE1_pCube15
+    400026: PLAQUE1_pCube16
+    400028: relai
+    400030: tuyau_D
+    400032: tuyau_G
+    400034: TUYAUX
+    400036: //RootNode
+    400038: VIS
+    400040: vis_01
+    400042: vis_02
+    400044: vis_03
+    400046: vis_04
+    400048: vis_05
+    400050: vis_06
+    400052: vis_07
+    400054: vis_08
+    2300000: boite
+    2300002: cable
+    2300004: connecteur_01
+    2300006: connecteur_02
+    2300008: connecteur_03
+    2300010: connecteur_04
+    2300012: loupiotte_rouge
+    2300014: loupiotte_verte
+    2300016: PLAQUE1_pCube15
+    2300018: PLAQUE1_pCube16
+    2300020: relai
+    2300022: tuyau_D
+    2300024: tuyau_G
+    2300026: vis_01
+    2300028: vis_02
+    2300030: vis_03
+    2300032: vis_04
+    2300034: vis_05
+    2300036: vis_06
+    2300038: vis_07
+    2300040: vis_08
+    3300000: boite
+    3300002: cable
+    3300004: connecteur_01
+    3300006: connecteur_02
+    3300008: connecteur_03
+    3300010: connecteur_04
+    3300012: loupiotte_rouge
+    3300014: loupiotte_verte
+    3300016: PLAQUE1_pCube15
+    3300018: PLAQUE1_pCube16
+    3300020: relai
+    3300022: tuyau_D
+    3300024: tuyau_G
+    3300026: vis_01
+    3300028: vis_02
+    3300030: vis_03
+    3300032: vis_04
+    3300034: vis_05
+    3300036: vis_06
+    3300038: vis_07
+    3300040: vis_08
+    4300000: loupiotte_rouge
+    4300002: loupiotte_verte
+    4300004: relai
+    4300006: boite
+    4300008: PLAQUE1_pCube15
+    4300010: PLAQUE1_pCube16
+    4300012: vis_01
+    4300014: vis_02
+    4300016: vis_03
+    4300018: vis_04
+    4300020: vis_05
+    4300022: vis_06
+    4300024: vis_07
+    4300026: vis_08
+    4300028: connecteur_01
+    4300030: connecteur_02
+    4300032: connecteur_03
+    4300034: connecteur_04
+    4300036: cable
+    4300038: tuyau_G
+    4300040: tuyau_D
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

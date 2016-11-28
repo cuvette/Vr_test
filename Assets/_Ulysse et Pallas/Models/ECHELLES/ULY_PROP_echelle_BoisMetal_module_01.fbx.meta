@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 6df282f5c22dec54b8d13ff727c6f804
+timeCreated: 1470415827
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: accroche
+    100002: barre_echelle_01
+    100004: barre_echelle_02
+    100006: barre_metal
+    100008: fixation
+    100010: fixation1
+    100012: planche_metal
+    100014: ramme
+    100016: tourillon_01
+    100018: tourillon_01 1
+    100020: tourillon_02
+    100022: tourillon_03
+    100024: tourillon_03 1
+    100026: tourillon_03 2
+    100028: tourillon_03 3
+    100030: tourillon_04
+    100032: tourillon_05
+    100034: tourillon_07
+    100036: tourillon_08
+    100038: tube
+    100040: //RootNode
+    100042: vis
+    400000: accroche
+    400002: barre_echelle_01
+    400004: barre_echelle_02
+    400006: barre_metal
+    400008: fixation
+    400010: fixation1
+    400012: planche_metal
+    400014: ramme
+    400016: tourillon_01
+    400018: tourillon_01 1
+    400020: tourillon_02
+    400022: tourillon_03
+    400024: tourillon_03 1
+    400026: tourillon_03 2
+    400028: tourillon_03 3
+    400030: tourillon_04
+    400032: tourillon_05
+    400034: tourillon_07
+    400036: tourillon_08
+    400038: tube
+    400040: //RootNode
+    400042: vis
+    2300000: accroche
+    2300002: barre_echelle_01
+    2300004: barre_echelle_02
+    2300006: barre_metal
+    2300008: fixation
+    2300010: fixation1
+    2300012: planche_metal
+    2300014: ramme
+    2300016: tourillon_01
+    2300018: tourillon_01 1
+    2300020: tourillon_02
+    2300022: tourillon_03
+    2300024: tourillon_03 1
+    2300026: tourillon_03 2
+    2300028: tourillon_03 3
+    2300030: tourillon_04
+    2300032: tourillon_05
+    2300034: tourillon_07
+    2300036: tourillon_08
+    2300038: tube
+    2300040: vis
+    3300000: accroche
+    3300002: barre_echelle_01
+    3300004: barre_echelle_02
+    3300006: barre_metal
+    3300008: fixation
+    3300010: fixation1
+    3300012: planche_metal
+    3300014: ramme
+    3300016: tourillon_01
+    3300018: tourillon_01 1
+    3300020: tourillon_02
+    3300022: tourillon_03
+    3300024: tourillon_03 1
+    3300026: tourillon_03 2
+    3300028: tourillon_03 3
+    3300030: tourillon_04
+    3300032: tourillon_05
+    3300034: tourillon_07
+    3300036: tourillon_08
+    3300038: tube
+    3300040: vis
+    4300000: tube
+    4300002: accroche
+    4300004: tourillon_01
+    4300006: tourillon_02
+    4300008: tourillon_03
+    4300010: ramme
+    4300012: tourillon_01
+    4300014: tourillon_04
+    4300016: barre_metal
+    4300018: planche_metal
+    4300020: tourillon_05
+    4300022: tourillon_03
+    4300024: barre_echelle_01
+    4300026: barre_echelle_02
+    4300028: vis
+    4300030: fixation
+    4300032: tourillon_03
+    4300034: tourillon_08
+    4300036: fixation1
+    4300038: tourillon_03
+    4300040: tourillon_07
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

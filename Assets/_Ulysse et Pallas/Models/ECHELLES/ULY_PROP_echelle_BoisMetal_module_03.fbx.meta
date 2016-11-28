@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: d2ff477c182dfb54e81d4051a3183ca8
+timeCreated: 1470415830
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barre_echelle_01
+    100002: barre_echelle_03
+    100004: fixation4
+    100006: fixation5
+    100008: planche
+    100010: planche_metal
+    100012: planche_S2
+    100014: tourillon_010
+    100016: tourillon_03
+    100018: tourillon_03 1
+    100020: tourillon_03 2
+    100022: tourillon_06
+    100024: tourillon_09
+    100026: tube
+    100028: //RootNode
+    400000: barre_echelle_01
+    400002: barre_echelle_03
+    400004: fixation4
+    400006: fixation5
+    400008: planche
+    400010: planche_metal
+    400012: planche_S2
+    400014: tourillon_010
+    400016: tourillon_03
+    400018: tourillon_03 1
+    400020: tourillon_03 2
+    400022: tourillon_06
+    400024: tourillon_09
+    400026: tube
+    400028: //RootNode
+    2300000: barre_echelle_01
+    2300002: barre_echelle_03
+    2300004: fixation4
+    2300006: fixation5
+    2300008: planche
+    2300010: planche_metal
+    2300012: planche_S2
+    2300014: tourillon_010
+    2300016: tourillon_03
+    2300018: tourillon_03 1
+    2300020: tourillon_03 2
+    2300022: tourillon_06
+    2300024: tourillon_09
+    2300026: tube
+    3300000: barre_echelle_01
+    3300002: barre_echelle_03
+    3300004: fixation4
+    3300006: fixation5
+    3300008: planche
+    3300010: planche_metal
+    3300012: planche_S2
+    3300014: tourillon_010
+    3300016: tourillon_03
+    3300018: tourillon_03 1
+    3300020: tourillon_03 2
+    3300022: tourillon_06
+    3300024: tourillon_09
+    3300026: tube
+    4300000: barre_echelle_01
+    4300002: barre_echelle_03
+    4300004: tube
+    4300006: planche_metal
+    4300008: tourillon_06
+    4300010: tourillon_03
+    4300012: planche_S2
+    4300014: planche
+    4300016: fixation4
+    4300018: tourillon_03
+    4300020: tourillon_09
+    4300022: fixation5
+    4300024: tourillon_03
+    4300026: tourillon_010
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

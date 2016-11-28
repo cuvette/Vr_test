@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: f89a2fa8edcebe64c991df008cca6adf
+timeCreated: 1470056122
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: voiture_enjoliveur
+    100004: voiture_jante
+    100006: voiture_pneu
+    100008: ULY_PROP_voiture_enjoliveur
+    100010: ULY_PROP_voiture_jante
+    100012: ULY_PROP_voiture_pneu
+    400000: //RootNode
+    400002: voiture_enjoliveur
+    400004: voiture_jante
+    400006: voiture_pneu
+    400008: ULY_PROP_voiture_enjoliveur
+    400010: ULY_PROP_voiture_jante
+    400012: ULY_PROP_voiture_pneu
+    2300000: voiture_enjoliveur
+    2300002: voiture_jante
+    2300004: voiture_pneu
+    2300006: ULY_PROP_voiture_enjoliveur
+    2300008: ULY_PROP_voiture_jante
+    2300010: ULY_PROP_voiture_pneu
+    3300000: voiture_enjoliveur
+    3300002: voiture_jante
+    3300004: voiture_pneu
+    3300006: ULY_PROP_voiture_enjoliveur
+    3300008: ULY_PROP_voiture_jante
+    3300010: ULY_PROP_voiture_pneu
+    4300000: voiture_pneu
+    4300002: voiture_enjoliveur
+    4300004: voiture_jante
+    4300006: ULY_PROP_voiture_pneu
+    4300008: ULY_PROP_voiture_enjoliveur
+    4300010: ULY_PROP_voiture_jante
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

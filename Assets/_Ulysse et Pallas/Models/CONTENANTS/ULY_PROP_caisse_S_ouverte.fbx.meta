@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 74cba8597aa39cf42aa137a91b2f98e8
+timeCreated: 1469701350
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: caisse_S_fermee
+    100002: planche_S
+    100004: planche_S10
+    100006: planche_S11
+    100008: planche_S12
+    100010: planche_S13
+    100012: planche_S14
+    100014: planche_S16
+    100016: planche_S17
+    100018: planche_S18
+    100020: planche_S19
+    100022: planche_S2
+    100024: planche_S4
+    100026: planche_S5
+    100028: planche_S6
+    100030: planche_S7
+    100032: planche_S8
+    100034: planche_S9
+    100036: //RootNode
+    400000: caisse_S_fermee
+    400002: planche_S
+    400004: planche_S10
+    400006: planche_S11
+    400008: planche_S12
+    400010: planche_S13
+    400012: planche_S14
+    400014: planche_S16
+    400016: planche_S17
+    400018: planche_S18
+    400020: planche_S19
+    400022: planche_S2
+    400024: planche_S4
+    400026: planche_S5
+    400028: planche_S6
+    400030: planche_S7
+    400032: planche_S8
+    400034: planche_S9
+    400036: //RootNode
+    2300000: caisse_S_fermee
+    2300002: planche_S
+    2300004: planche_S10
+    2300006: planche_S11
+    2300008: planche_S12
+    2300010: planche_S13
+    2300012: planche_S14
+    2300014: planche_S16
+    2300016: planche_S17
+    2300018: planche_S18
+    2300020: planche_S19
+    2300022: planche_S2
+    2300024: planche_S4
+    2300026: planche_S5
+    2300028: planche_S6
+    2300030: planche_S7
+    2300032: planche_S8
+    2300034: planche_S9
+    3300000: caisse_S_fermee
+    3300002: planche_S
+    3300004: planche_S10
+    3300006: planche_S11
+    3300008: planche_S12
+    3300010: planche_S13
+    3300012: planche_S14
+    3300014: planche_S16
+    3300016: planche_S17
+    3300018: planche_S18
+    3300020: planche_S19
+    3300022: planche_S2
+    3300024: planche_S4
+    3300026: planche_S5
+    3300028: planche_S6
+    3300030: planche_S7
+    3300032: planche_S8
+    3300034: planche_S9
+    4300000: caisse_S_fermee
+    4300002: planche_S
+    4300004: planche_S2
+    4300006: planche_S4
+    4300008: planche_S5
+    4300010: planche_S6
+    4300012: planche_S7
+    4300014: planche_S8
+    4300016: planche_S9
+    4300018: planche_S10
+    4300020: planche_S11
+    4300022: planche_S12
+    4300024: planche_S13
+    4300026: planche_S14
+    4300028: planche_S16
+    4300030: planche_S17
+    4300032: planche_S18
+    4300034: planche_S19
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
